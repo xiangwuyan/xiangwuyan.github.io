@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research Interests: Trade & resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project.<br>
-<font color="#974806">【严祥武（1996—），浙江财经大学国际贸易学博士生。研究兴趣为国际贸易、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。】</font>
+Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research Interests: Trade & resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project.<br><font color="#974806">【严祥武（1996—），浙江财经大学国际贸易学博士生。研究兴趣为国际贸易、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。】</font>
 
+---
 # <font color="#0070c0">Publications</font>
 
 ### Theme 1: International economy
@@ -44,10 +44,12 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 3. Li CY, <u>Yan XW</u>\*, Li BQ, et al. Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity. Frontiers in Environmental Science. 2021, 494 (9): 0-764941.[Full Text](https://www.frontiersin.org/articles/10.3389/fenvs.2021.764941/full)
 4. Li CY, <u>Yan XW</u>\*, Zhang YB, et al. Does Airport Preferential Policy Aggravate the Competition of Aviation Hubs in Central and Western China? Based on the Investigation of 78 Airports. Mathematical Problems in Engineering, Vol. 2021, Article ID 8387088, 14 pages, 2021. [Full Text](https://www.hindawi.com/journals/mpe/2021/8387088/)
 
+---
 # <font color="#0070c0">Books</font>
 1. Li CY, <u>Yan XW</u>. The strategy of basic factor market allocation for smooth domestic circulation, China Agriculture Press, 2022. <br>
 【李程宇，<u>严祥武</u>. 畅通国内大循环的基础要素市场配置策略研究[M]. 北京, 中国农业出版社, 2022. ISBN: 978-7-109-30227-3】 [Cover & Catalogue](http://xiangwuyan.github.io/files/2022专著.pdf)
 
+---
 # <font color="#0070c0">Fundings</font>
 1. National Natural Science Foundation of China （71803181）: The theoretical mechanisms and policy instruments of the carbon market system affecting economic fluctuations and expected inflation，2019/01-2021/12, Participated. <br>
 【国家级：国家自然科学基金青年科学基金项目：碳市场体系影响经济波动及预期通货膨胀的理论机制与政策工具研究（71803181），2019/01-2021/12，结项，参加】
@@ -59,14 +61,14 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 3. Zhejiang University of Finance & Economics GraduateResearch Project: Will Fair Competition Review System Restrain the Trend of "Shifting from RealEconomy to Virtual Economy?" <br>
 【校级：浙江财经大学田野调查项目：公平竞争审查制度对企业脱实向虚的影响研究（23TYDC035），2023/06-2024/05，结项，主持。】
 
-
+---
 # <font color="#0070c0">Educations</font>
 
 * B.S. in  logistics management,Zhengzhou University of Light Industry, 2015.9-2019.6
 * M.S. in  logistics engineering, Zhengzhou University of Light Industry, 2019.9-2022.6
 * Ph.D in  International trade, Zhejiang University of Finance and Economics, 2022.9-2025.6 (expected)
 
-
+---
 # <font color="#0070c0">Academic activities</font>
 
 |时间|会议|汇报题目|
@@ -82,6 +84,7 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 |2022.11|中国数量经济学会2022年（大连）年会| 数字鸿沟与贸易距离弹性：“距离之谜”的再探究|
 |2021.05|第九届全国低碳发展管理学术年会、第六届能源资源系统工程学术年会、第四届中国(太原)管理科学与工程国际学术年会|Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity|
 
+---
 # <font color="#0070c0">Review works</font>
 
 - Sustainable Development
@@ -98,6 +101,7 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 - Natural Resources Forum
 - Frontiers of Agricultural Science and Engineering
 
+---
 # <font color="#0070c0">Contact mes</font>
 
 - Email: xiangwu.yan@zufe.edu.cn
