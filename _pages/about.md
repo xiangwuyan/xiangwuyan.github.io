@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+# Bio
 Xiang-Wu Yan (1996-), doctoral candidate in International Trade at Zhejiang University of Finance & Economics. Research Interests: Trade & resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project.<br>
 【严祥武（1996—），浙江财经大学国际贸易学博士生。研究兴趣为国际贸易、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项。入选第七期“香樟青苗计划”。】
 
@@ -23,10 +23,10 @@ Xiang-Wu Yan (1996-), doctoral candidate in International Trade at Zhejiang Univ
 
 1. Wang ZX, <u>Yan XW</u>\*. "Area-Based Evaluation Mechanism" Reform and Enterprise High-Quality Growth: Perspectives on Efficiency and Momentum Changes, Journal of Quantitative & Technological Economics, 2024(12):155-176. <br>
 【王正新，<u>严祥武</u>\*.“亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角[J].数量经济技术经济研究,2024(12):155-176.(CSSCI)】 [Full Text](http://www.jqte.net/sljjjsjjyj/ch/reader/create_pdf.aspx?file_no=20241208&flag=1&journal_id=sljjjsjjyj&year_id=2024) [Code & Data](http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20241208&flag=1) 
-# [收稿日期：2023-11-25](https://yanxiangwu-1318868572.cos.ap-shanghai.myqcloud.com/obp/75e8898abba55a09479418a13423ee4.png)
+
 
 2. Wang ZX, <u>Yan XW</u>\*. Does administrative monopoly regulation restrain enterprise over-financialization? Evidence from China’s Fair Competition Review System
-, Journal of Management Science and Engineering, 2024(12) Available online. [Full Text](https://www.sciencedirect.com/science/article/pii/S2096232024000581) 
+, Journal of Management Science and Engineering (管理科学学报英文版), 2024(12) Available online. [Full Text](https://www.sciencedirect.com/science/article/pii/S2096232024000581) 
 
 3. Wang ZX, Gong JM, <u>Yan XW</u>\*.Industry Upgrade Effect of Differentiated Allocation of Resource Elements ：Empirical Research on the "Area-Based Evaluation Mechanism" Reform, Zhejiang Social Sciences, 2022(12):26-36+156. <br>
 【王正新，龚吉明，<u>严祥武</u>\*.资源要素差别化配置的产业升级效应——基于“亩均论英雄”改革的经验研究[J].浙江社会科学,2022(12):26-36+156.(CSSCI)】 [Full Text](https://doi.org/10.14167/j.zjss.2022.12.011) 
