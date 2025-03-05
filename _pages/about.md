@@ -1,7 +1,7 @@
 ---
 permalink: /
-  title: "严祥武（Xiang-Wu Yan）"
-# excerpt: "About me"
+title: "严祥武（Xiang-Wu Yan）"
+
 author_profile: true
 redirect_from: 
   - /about/
@@ -54,6 +54,7 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
   
 2. Zhejiang students' technology and innovation program (Xinmiao talent program): "Area-Based Evaluation Mechanism" Reform and Enterprise's High-Quality Growth: Viewpoint of Efficiency Change and Momentum Change, 2024.3. <br>
 【省级：浙江省大学生科技创新活动计划（新苗人才计划）: “亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角（2024R414B038），2024.3，立项，主持。】[公示](https://cyqn.zufe.edu.cn/info/1013/4687.htm)
+
 
 3. Zhejiang University of Finance & Economics GraduateResearch Project: Will Fair Competition Review System Restrain the Trend of "Shifting from RealEconomy to Virtual Economy?" <br>
 【校级：浙江财经大学田野调查项目：公平竞争审查制度对企业脱实向虚的影响研究（23TYDC035），2023/06-2024/05，结项，主持。】
