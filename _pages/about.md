@@ -1,14 +1,13 @@
 ---
 permalink: /
-#  title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+  title: "严祥武（Xiang-Wu Yan）"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Bio
 Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research Interests: Trade & resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project.<br>
 【严祥武（1996—），浙江财经大学国际贸易学博士生。研究兴趣为国际贸易、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。】
 
@@ -55,7 +54,6 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
   
 2. Zhejiang students' technology and innovation program (Xinmiao talent program): "Area-Based Evaluation Mechanism" Reform and Enterprise's High-Quality Growth: Viewpoint of Efficiency Change and Momentum Change, 2024.3. <br>
 【省级：浙江省大学生科技创新活动计划（新苗人才计划）: “亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角（2024R414B038），2024.3，立项，主持。】[公示](https://cyqn.zufe.edu.cn/info/1013/4687.htm)
-
 
 3. Zhejiang University of Finance & Economics GraduateResearch Project: Will Fair Competition Review System Restrain the Trend of "Shifting from RealEconomy to Virtual Economy?" <br>
 【校级：浙江财经大学田野调查项目：公平竞争审查制度对企业脱实向虚的影响研究（23TYDC035），2023/06-2024/05，结项，主持。】
