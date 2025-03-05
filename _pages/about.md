@@ -71,7 +71,7 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 ---
 # <font color="#0070c0">Academic activities</font>
 
-|时间|会议|汇报题目|
+|时间|会议/活动名称|汇报题目/参与情况|
 |:---:|:---:|:---:|
 |2024.09|第二届青山湖国际经济论坛|数字服务贸易壁垒对数字服务出口的影响效应研究|
 |2024.07|第七期“香樟青苗计划”|入选学员|
