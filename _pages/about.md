@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "<font color="#0070c0">Bio</font>"
 
 author_profile: true
 redirect_from: 
