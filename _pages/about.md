@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "严祥武（Xiang-Wu Yan）"
+title: "Bio"
 
 author_profile: true
 redirect_from: 
