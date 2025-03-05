@@ -13,13 +13,13 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 ---
 # <font color="#0070c0">Publications</font>
 
-### Theme 1: International economy
+### <font color="#8470FF">Theme 1: International economy</font>
 1.  Wang ZX, Tang BX,<u>Yan XW</u>\*.  The impact of administrative boundaries on foreign direct investments in China's Yangtze River Delta region[J]. China Economic Review, 2024: 102171.[Full Text](https://www.sciencedirect.com/science/article/pii/S1043951X24000609)
 2. Wang ZX, <u>Yan XW</u>\* Digital Divide and Trade Distance Elasticity: A Re-examination of the Distance Puzzle, Seeking Truth, 2023(3):66-81. <br>
 【王正新，<u>严祥武</u>\*. 数字鸿沟与贸易距离弹性：“距离之谜”的再探究[J].求是学刊,2023(3):66-81.(CSSCI，人大复印资料全文转载)】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2023.03.007)
 
 
-### Theme 2: Industrial economy
+###  <font color="#8470FF">Theme 2: Industrial economy</font>
 
 1. Wang ZX, <u>Yan XW</u>\*. "Area-Based Evaluation Mechanism" Reform and Enterprise High-Quality Growth: Perspectives on Efficiency and Momentum Changes, Journal of Quantitative & Technological Economics, 2024(12):155-176. <br>
 【王正新，<u>严祥武</u>\*.“亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角[J].数量经济技术经济研究,2024(12):155-176.(CSSCI)】 [Full Text](http://www.jqte.net/sljjjsjjyj/ch/reader/create_pdf.aspx?file_no=20241208&flag=1&journal_id=sljjjsjjyj&year_id=2024) [Code & Data](http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20241208&flag=1) 
@@ -38,7 +38,7 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 【陈海豹，<u>严祥武</u>\*，张亚楠. 数字经济与产业链供应链安全：基于智慧城市试点的准自然实验[J].统计与决策, 2025,(03):36-41】[Full Text](https://doi.org/10.13546/j.cnki.tjyjc.2025.03.006)
 
 
-### Theme 3: Green economy
+### <font color="#8470FF">Theme 3: Green economy</font>
 1. Ai KP, <u>Yan XW</u>\*. Can green infrastructure investment reduce urban carbon emissions? Empirical evidence from China. [J]. Land，2024, 13, 226.[Full Text](https://www.mdpi.com/2073-445X/13/2/226)
 2. Cui XH, Xu N\*, <u>Yan XW</u>, et al. How does social credit system constructions affect corporate carbon emissions? Empirical evidence from Chinese listed companies[J]. Economics Letters, 2023, 231: 111309.[Full Text](https://www.sciencedirect.com/science/article/abs/pii/S0165176523003348)
 3. Li CY, <u>Yan XW</u>\*, Li BQ, et al. Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity. Frontiers in Environmental Science. 2021, 494 (9): 0-764941.[Full Text](https://www.frontiersin.org/articles/10.3389/fenvs.2021.764941/full)
@@ -85,7 +85,7 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 |2021.05|第九届全国低碳发展管理学术年会、第六届能源资源系统工程学术年会、第四届中国(太原)管理科学与工程国际学术年会|Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity|
 
 ---
-# <font color="#0070c0">Review works</font>
+# <font color="#0070c0">Review work</font>
 
 - Sustainable Development
 - Applied Economics
@@ -102,6 +102,6 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 - Frontiers of Agricultural Science and Engineering
 
 ---
-# <font color="#0070c0">Contact mes</font>
+# <font color="#0070c0">Contact me</font>
 
 - Email: xiangwu.yan@zufe.edu.cn
