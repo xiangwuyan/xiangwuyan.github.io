@@ -34,7 +34,7 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 4. Li CY, <u>Yan XW</u>\*. Why do 'green jobs' tend to be informal jobs? experiences from China'senvironmental protection industry, China Population,Resources and Environment, 2021,31(12):116-127. <br>
 【李程宇，<u>严祥武</u>\*.为什么“绿色工作”偏向成为非正式工作？——来自中国环保行业的经验[J].中国人口·资源与环境,2021,31(12):116-127.】 [Full Text](https://kns.cnki.net/kcms2/article/abstract?v=9CXCstbk-tsQknlD0mOeSvDYQhy5El0gGcpkWC_oQpDxn3am3fMBD4E1e4WylZ-xvqSGy8e92ux5FNa6XutioYBC7lrO2KCzLS-AEfzZXpPRoso4mbCsqHJo-GPNQx9EAXiZ6b6dVRyGefXAktb2dg==&uniplatform=NZKPT&language=CHS)
 
-5. Chen HB, <u>Yan XW</u>\*, Zhang YN. Digital Economy and Industrial Chain Supply Chain Security: A Quasi-Natural Experiment Based on Smart City Pilot[J]. Statistics & Decision, 2025,(03):36-41.<br>  
+5. Chen HB, <u>Yan XW</u>\*, Zhang YN. Digital Economy and Industrial Chain Supply Chain Security: A Quasi-Natural Experiment Based on Smart City Pilot[J]. Statistics & Decision, 2025,(03):36-41.<br>
 【陈海豹，<u>严祥武</u>\*，张亚楠. 数字经济与产业链供应链安全：基于智慧城市试点的准自然实验[J].统计与决策, 2025,(03):36-41】[Full Text](https://doi.org/10.13546/j.cnki.tjyjc.2025.03.006)
 
 
