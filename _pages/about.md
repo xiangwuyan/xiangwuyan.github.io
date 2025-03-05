@@ -1,49 +1,106 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+#  title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+# About me
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Xiang-Wu Yan (1996-), doctoral candidate in International Trade at Zhejiang University of Finance & Economics. Research Interests: Trade & resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** ,  **China Agricultural Press**. He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project.<br>
+【严祥武（1996—），浙江财经大学国际贸易学博士生。研究兴趣为国际贸易、自然资源管理。代表性研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》（人大复印报刊资料全文转载）。出版学术著作一部，主持浙江省新苗课题一项。入选第七期“香樟青苗计划”。】
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Publications
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### Theme 1: International economy
+1.  Wang ZX, Tang BX,<u>Yan XW</u>\*.  The impact of administrative boundaries on foreign direct investments in China's Yangtze River Delta region[J]. China Economic Review, 2024: 102171.[Full Text](https://www.sciencedirect.com/science/article/pii/S1043951X24000609)
+2. Wang ZX, <u>Yan XW</u>\* Digital Divide and Trade Distance Elasticity: A Re-examination of the Distance Puzzle, Seeking Truth, 2023(3):66-81. <br>
+【王正新，<u>严祥武</u>\*. 数字鸿沟与贸易距离弹性：“距离之谜”的再探究[J].求是学刊,2023(3):66-81.(CSSCI，人大复印资料全文转载)】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2023.03.007)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+### Theme 2: Industrial economy
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+1. Wang ZX, <u>Yan XW</u>\*. "Area-Based Evaluation Mechanism" Reform and Enterprise High-Quality Growth: Perspectives on Efficiency and Momentum Changes, Journal of Quantitative & Technological Economics, 2024(12):155-176. <br>
+【王正新，<u>严祥武</u>\*.“亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角[J].数量经济技术经济研究,2024(12):155-176.(CSSCI)】 [Full Text](http://www.jqte.net/sljjjsjjyj/ch/reader/create_pdf.aspx?file_no=20241208&flag=1&journal_id=sljjjsjjyj&year_id=2024) [Code & Data](http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20241208&flag=1) [收稿日期：2023-11-25](https://yanxiangwu-1318868572.cos.ap-shanghai.myqcloud.com/obp/75e8898abba55a09479418a13423ee4.png)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+2. Wang ZX, Gong JM, <u>Yan XW</u>\*.Industry Upgrade Effect of Differentiated Allocation of Resource Elements ：Empirical Research on the "Area-Based Evaluation Mechanism" Reform, Zhejiang Social Sciences, 2022(12):26-36+156. <br>
+【王正新，龚吉明，<u>严祥武</u>\*.资源要素差别化配置的产业升级效应——基于“亩均论英雄”改革的经验研究[J].浙江社会科学,2022(12):26-36+156.(CSSCI)】 [Full Text](https://doi.org/10.14167/j.zjss.2022.12.011) 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+3. Li CY, <u>Yan XW</u>. The strategy of basic factor market allocation for smooth domestic circulation, China Agriculture Press, 2022. <br>
+【李程宇，<u>严祥武</u>. 畅通国内大循环的基础要素市场配置策略研究[M]. 北京, 中国农业出版社, 2022. ISBN: 978-7-109-30227-3】 [Cover & Catalogue](http://xiangwuyan.github.io/files/2022专著.pdf)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+4. Li CY, <u>Yan XW</u>\*. Why do 'green jobs' tend to be informal jobs? experiences from China'senvironmental protection industry, China Population,Resources and Environment, 2021,31(12):116-127. <br>
+【李程宇，<u>严祥武</u>\*.为什么“绿色工作”偏向成为非正式工作？——来自中国环保行业的经验[J].中国人口·资源与环境,2021,31(12):116-127.】 [Full Text](https://kns.cnki.net/kcms2/article/abstract?v=9CXCstbk-tsQknlD0mOeSvDYQhy5El0gGcpkWC_oQpDxn3am3fMBD4E1e4WylZ-xvqSGy8e92ux5FNa6XutioYBC7lrO2KCzLS-AEfzZXpPRoso4mbCsqHJo-GPNQx9EAXiZ6b6dVRyGefXAktb2dg==&uniplatform=NZKPT&language=CHS)
+
+5. Chen HB, <u>Yan XW</u>\*, Zhang YN. Digital Economy and Industrial Chain Supply Chain Security: A Quasi-Natural Experiment Based on Smart City Pilot[J]. Statistics & Decision, 2025,(03):36-41.<br>  
+【陈海豹，<u>严祥武</u>\*，张亚楠. 数字经济与产业链供应链安全：基于智慧城市试点的准自然实验[J].统计与决策, 2025,(03):36-41】[Full Text](https://doi.org/10.13546/j.cnki.tjyjc.2025.03.006)
+
+6. Wang ZX, <u>Yan XW</u>\*. Does administrative monopoly regulation restrain enterprise over-financialization? Evidence from China’s Fair Competition Review System
+, Journal of Management Science and Engineering, 2024(12) Available online. [Full Text](https://www.sciencedirect.com/science/article/pii/S2096232024000581) 
+
+
+### Theme 3: Green economy
+1. Ai KP, <u>Yan XW</u>\*. Can green infrastructure investment reduce urban carbon emissions? Empirical evidence from China. [J]. Land，2024, 13, 226.[Full Text](https://www.mdpi.com/2073-445X/13/2/226)
+2. Cui XH, Xu N\*, <u>Yan XW</u>, et al. How does social credit system constructions affect corporate carbon emissions? Empirical evidence from Chinese listed companies[J]. Economics Letters, 2023, 231: 111309.[Full Text](https://www.sciencedirect.com/science/article/abs/pii/S0165176523003348)
+3. Li CY, <u>Yan XW</u>\*, Li BQ, et al. Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity. Frontiers in Environmental Science. 2021, 494 (9): 0-764941.[Full Text](https://www.frontiersin.org/articles/10.3389/fenvs.2021.764941/full)
+4. Li CY, <u>Yan XW</u>\*, Zhang YB, et al. Does Airport Preferential Policy Aggravate the Competition of Aviation Hubs in Central and Western China? Based on the Investigation of 78 Airports. Mathematical Problems in Engineering, Vol. 2021, Article ID 8387088, 14 pages, 2021. [Full Text](https://www.hindawi.com/journals/mpe/2021/8387088/)
+
+
+
+# Research fundings
+1. National Natural Science Foundation of China （71803181）: The theoretical mechanisms and policy instruments of the carbon market system affecting economic fluctuations and expected inflation，2019/01-2021/12, Participated. <br>
+【国家级：国家自然科学基金青年科学基金项目：碳市场体系影响经济波动及预期通货膨胀的理论机制与政策工具研究（71803181），2019/01-2021/12，结项，参加】
+  
+2. Zhejiang students' technology and innovation program (Xinmiao talent program): "Area-Based Evaluation Mechanism" Reform and Enterprise's High-Quality Growth: Viewpoint of Efficiency Change and Momentum Change, 2024.3. <br>
+【省级：浙江省大学生科技创新活动计划（新苗人才计划）: “亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角（2024R414B038），2024.3，立项，主持。】[公示](https://cyqn.zufe.edu.cn/info/1013/4687.htm)
+
+
+3. Zhejiang University of Finance & Economics GraduateResearch Project: Will Fair Competition Review System Restrain the Trend of "Shifting from RealEconomy to Virtual Economy?" <br>
+【校级：浙江财经大学田野调查项目：公平竞争审查制度对企业脱实向虚的影响研究（23TYDC035），2023/06-2024/05，结项，主持。】
+
+
+# Education
+
+* B.S. in  logistics management,Zhengzhou University of Light Industry, 2015.9-2019.6
+* M.S. in  logistics engineering, Zhengzhou University of Light Industry, 2019.9-2022.6
+* Ph.D in  International trade, Zhejiang University of Finance and Economics, 2022.9-2026.6 (expected)
+
+
+# Academic activities
+
+
+|时间|会议|汇报题目|
+|:---:|:---:|:---:|
+|2024.09|第二届青山湖国际经济论坛|数字服务贸易壁垒对数字服务出口的影响效应研究|
+|2024.07|第七期“香樟青苗计划”|入选学员|
+|2024.07|2024 年第十三届数量经济学国际学术会议|Does Administrative Monopoly Regulation Restrain Enterprise Over-financialization? Evidence of China's Fair Competition Review System|
+|2024.07|2024 Chinese Economists Society Annual Conference（CES年会）|The Impact of Income Inequality on Consumption Structure Upgrading: Empirical Evidence from the China Family Panel Studies|
+|2023.10|2023年秋季清华交叉学科研究能力提升计划“大数据与因果推断研讨班”|入选学员|
+|2023.07|2023 年上贸大-YES“面向真实世界的经济研究”暑期学校|入选学员|
+|2023.06|第十三届产业组织前沿问题研讨会|公平竞争审查能否抑制企业脱实向虚?|
+|2022.10|2022年第一届“数字化转型与智慧管理全国高校经管类博士生学术论坛|制造业数字化转型对碳排放效率的影响研究|
+|2022.11|中国数量经济学会2022年（大连）年会| 数字鸿沟与贸易距离弹性：“距离之谜”的再探究|
+|2021.05|第九届全国低碳发展管理学术年会、第六届能源资源系统工程学术年会、第四届中国(太原)管理科学与工程国际学术年会|Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity|
+
+# Review work
+
+- Sustainable Development
+- Applied Economics
+- Journal of Urban Technology 
+- Humanities and Social Sciences Communications
+- Plos One
+- Journal of Asian and African Studies
+- Review of Development Economics
+- Frontiers in Environmental Science
+- Emerging Markets Finance and Trade
+- Technology Analysis & Strategic Management
+- Applied Economics Letters
+- Natural Resources Forum
+- Frontiers of Agricultural Science and Engineering
+
+# Contact me
+
+- Email: xiangwu.yan@zufe.edu.cn
