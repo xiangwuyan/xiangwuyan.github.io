@@ -85,19 +85,19 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 ---
 # <font color="#0070c0">Review work</font>
 
-- Sustainable Development
 - Applied Economics
-- Journal of Urban Technology 
-- Humanities and Social Sciences Communications
-- Plos One
-- Journal of Asian and African Studies
-- Review of Development Economics
-- Frontiers in Environmental Science
-- Emerging Markets Finance and Trade
-- Technology Analysis & Strategic Management
 - Applied Economics Letters
-- Natural Resources Forum
+- Emerging Markets Finance and Trade
+- Frontiers in Environmental Science
 - Frontiers of Agricultural Science and Engineering
+- Humanities and Social Sciences Communications
+- Journal of Asian and African Studies
+- Journal of Urban Technology
+- Natural Resources Forum
+- Plos One
+- Review of Development Economics
+- Sustainable Development
+- Technology Analysis & Strategic Management
 - Urban Science
 
 ---
