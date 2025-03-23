@@ -92,6 +92,7 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 - Frontiers of Agricultural Science and Engineering
 - Humanities and Social Sciences Communications
 - Journal of Asian and African Studies
+- Journal of the Asia Pacific Economy
 - Journal of Urban Technology
 - Natural Resources Forum
 - Plos One
