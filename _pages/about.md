@@ -62,9 +62,10 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 
 ---
 
-# <font color="#0070c0">Economics notes</font>\
+# <font color="#0070c0">Economics notes</font>
 
 [【香樟推文3428】收入不平等与就业创造：企业融资的新视角](https://mp.weixin.qq.com/s/kxS5gVEIuyp96W39rTRMIA)
+
 [【计量经济圈】平行趋势非线性违背检验, 原理与代码解读](https://mp.weixin.qq.com/s/RgxM6UXlKgtsHBZEb6ewqg)
 
 ---
