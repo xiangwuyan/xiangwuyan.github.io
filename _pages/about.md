@@ -16,13 +16,13 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 ### <font color="#8470FF">Theme 1: International economy</font>
 1.  Wang ZX, Tang BX,<u>Yan XW</u>\*.  The impact of administrative boundaries on foreign direct investments in China's Yangtze River Delta region[J]. China Economic Review, 2024: 102171.[Full Text](https://www.sciencedirect.com/science/article/pii/S1043951X24000609)
 2. Wang ZX, <u>Yan XW</u>\* Digital Divide and Trade Distance Elasticity: A Re-examination of the Distance Puzzle, Seeking Truth, 2023(3):66-81. <br>
-【王正新，<u>严祥武</u>\*. 数字鸿沟与贸易距离弹性：“距离之谜”的再探究[J].求是学刊,2023(3):66-81.(CSSCI，人大复印资料全文转载)】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2023.03.007)
+【王正新，<u>严祥武</u>\*. 数字鸿沟与贸易距离弹性：“距离之谜”的再探究[J].求是学刊,2023(3):66-81.(CSSCI，人大复印资料《国际贸易研究》2023年第10期全文转载)】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2023.03.007)
 
 
 ###  <font color="#8470FF">Theme 2: Industrial economy</font>
 
 1. Wang ZX, <u>Yan XW</u>\*. "Area-Based Evaluation Mechanism" Reform and Enterprise High-Quality Growth: Perspectives on Efficiency and Momentum Changes, Journal of Quantitative & Technological Economics, 2024(12):155-176. <br>
-【王正新，<u>严祥武</u>\*.“亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角[J].数量经济技术经济研究,2024(12):155-176.(CSSCI)】 [Full Text](http://www.jqte.net/sljjjsjjyj/ch/reader/create_pdf.aspx?file_no=20241208&flag=1&journal_id=sljjjsjjyj&year_id=2024) [Code & Data](http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20241208&flag=1) 
+【王正新，<u>严祥武</u>\*.“亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角[J].数量经济技术经济研究,2024(12):155-176.(CSSCI，人大复印资料《社会主义经济理论与实践》2025年第3期全文转载)】 [Full Text](http://www.jqte.net/sljjjsjjyj/ch/reader/create_pdf.aspx?file_no=20241208&flag=1&journal_id=sljjjsjjyj&year_id=2024) [Code & Data](http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20241208&flag=1) 
 
 2. Wang ZX, <u>Yan XW</u>\*. Does administrative monopoly regulation restrain enterprise over-financialization? Evidence from China’s Fair Competition Review System
 , Journal of Management Science and Engineering (管理科学学报英文版), 2025, 10(2), 158-174. [Full Text](https://www.sciencedirect.com/science/article/pii/S2096232024000581) 
