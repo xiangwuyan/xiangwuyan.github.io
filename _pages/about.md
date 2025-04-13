@@ -87,7 +87,7 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 
 ---
 # <font color="#0070c0">Review work</font>
-**Reviewed for 19 journals :**
+**Reviewed for 20 journals :**
 
 - Applied Economics
 - Applied Economics Letters
@@ -107,6 +107,7 @@ Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research In
 - Sustainability
 - Spatial Economic Analysis
 - Technology Analysis & Strategic Management
+- Technological Forecasting & Social Change
 - Urban Science
 
 ---
