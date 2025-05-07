@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Xiang-Wu Yan (1996-), PhD candidate in International Trade, at ZUFE. Research Interests: trade and geography, natural resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project.<br><font color="#974806">【严祥武（1996—），浙江财经大学国际贸易学博士生。研究兴趣为贸易与地理、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。】</font>
+Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography, natural resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project.<br><font color="#974806">【严祥武（1996—），经济学博士。研究兴趣为贸易与地理、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。】</font>
 
 ---
 # <font color="#0070c0">Publications</font>
