@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography, natural resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project.<br><font color="#974806">【严祥武（1996—），经济学博士。研究兴趣为贸易与地理、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。】</font>
+Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography, natural resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ) <br><font color="#974806">【严祥武（1996—），经济学博士。研究兴趣为贸易与地理、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。SSCI期刊[Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)青年编委】</font>
 
 ---
 # <font color="#0070c0">Publications</font>
@@ -86,17 +86,23 @@ Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography,
 |2021.05|第九届全国低碳发展管理学术年会、第六届能源资源系统工程学术年会、第四届中国(太原)管理科学与工程国际学术年会|Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity|
 
 ---
+
+# <font color="#0070c0">Editor work</font>
+Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)
+
 # <font color="#0070c0">Review work</font>
-**Reviewed for 20 journals :**
+**Reviewed for 22 journals :**
 
 - Applied Economics
 - Applied Economics Letters
+- Environment, Development and Sustainability
 - Environmental Engineering and Management Journal
 - Emerging Markets Finance and Trade
 - Frontiers in Environmental Science
 - Frontiers of Agricultural Science and Engineering
 - Humanities and Social Sciences Communications
 - Journal of Asian and African Studies
+- Journal of Computational Methods in Science and Engineering
 - Journal of the Asia Pacific Economy
 - Journal of Urban Technology
 - Natural Resources Forum
