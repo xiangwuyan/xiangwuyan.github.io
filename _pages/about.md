@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography, natural resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ) <br><font color="#974806">【严祥武（1996—），经济学博士。研究兴趣为贸易与地理、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。SSCI期刊[Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)青年编委】</font>
+Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography, natural resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ). <br><font color="#974806">【严祥武（1996—），经济学博士。研究兴趣为贸易与地理、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。担任SSCI期刊Journal of East European Management Studies青年编委】。</font>
 
 ---
 # <font color="#0070c0">Publications</font>
@@ -66,7 +66,10 @@ Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography,
 
 [【香樟推文3428】收入不平等与就业创造：企业融资的新视角](https://mp.weixin.qq.com/s/kxS5gVEIuyp96W39rTRMIA)
 
+[【香樟推文3545】出口扩张与中国中低技能职业兴起](https://mp.weixin.qq.com/s/E95tamufTlh7mczpIGF_vw)
+
 [【计量经济圈】平行趋势非线性违背检验, 原理与代码解读](https://mp.weixin.qq.com/s/RgxM6UXlKgtsHBZEb6ewqg)
+
 
 ---
 
