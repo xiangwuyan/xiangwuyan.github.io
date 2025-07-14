@@ -94,11 +94,12 @@ Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography,
 Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)
 
 # <font color="#0070c0">Review work</font>
-**Reviewed for 22 journals :**
+**Reviewed for 23 journals :**
 
 - Applied Economics
 - Applied Economics Letters
 - Environment, Development and Sustainability
+- Energy Efficiency
 - Environmental Engineering and Management Journal
 - Emerging Markets Finance and Trade
 - Frontiers in Environmental Science
