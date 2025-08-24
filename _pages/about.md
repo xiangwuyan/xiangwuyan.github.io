@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography, natural resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ). <br><font color="#974806">【严祥武（1996—），经济学博士。研究兴趣为贸易与地理、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。担任SSCI期刊Journal of East European Management Studies青年编委】。</font>
+Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal University
+. Research Interests: trade and geography, natural resource management. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ). <br><font color="#974806">【严祥武（1996—），经济学博士，信阳师范大学青年教师。研究兴趣为贸易与地理、自然资源管理。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。担任SSCI期刊Journal of East European Management Studies青年编委】。</font>
 
 ---
 # <font color="#0070c0">Publications</font>
@@ -68,8 +69,9 @@ Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography,
 
 [【香樟推文3545】出口扩张与中国中低技能职业兴起](https://mp.weixin.qq.com/s/E95tamufTlh7mczpIGF_vw)
 
-[【计量经济圈】平行趋势非线性违背检验, 原理与代码解读](https://mp.weixin.qq.com/s/RgxM6UXlKgtsHBZEb6ewqg)
+[【香樟推文3604】遥感数据在社科研究的测量误差陷阱](https://mp.weixin.qq.com/s/G77Q9BUnDoKJ1MnbWLnKUQ)
 
+[【计量经济圈】平行趋势非线性违背检验, 原理与代码解读](https://mp.weixin.qq.com/s/RgxM6UXlKgtsHBZEb6ewqg)
 
 ---
 
@@ -77,6 +79,8 @@ Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography,
 
 |时间|会议/活动名称|汇报题目/参与情况|
 |:---:|:---:|:---:|
+|2025.07|2025年“灰色系统理论与应用”江苏省暑期学校|入选学员|
+|2025.07|中国海洋大学2025年“本土原创学说及其在海洋经济管理中的创新应用”暑期学校|入选学员|
 |2024.09|第二届青山湖国际经济论坛|数字服务贸易壁垒对数字服务出口的影响效应研究|
 |2024.07|第七期“香樟青苗计划”|入选学员|
 |2024.07|2024 年第十三届数量经济学国际学术会议|Does Administrative Monopoly Regulation Restrain Enterprise Over-financialization? Evidence of China's Fair Competition Review System|
@@ -94,10 +98,11 @@ Xiang-Wu Yan (1996-), PhD in Economics. Research Interests: trade and geography,
 Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)
 
 # <font color="#0070c0">Review work</font>
-**Reviewed for 26 journals :**
+**Reviewed for 27 journals :**
 
 - Applied Economics
 - Applied Economics Letters
+- Acta Oeconomica
 - Environment, Development and Sustainability
 - Energy Efficiency
 - Environmental Engineering and Management Journal
@@ -136,4 +141,4 @@ Early Career Researcher Editorial Board Member of [Journal of East European Mana
 
 # <font color="#0070c0">Contact me</font>
 
-- Email: xiangwu.yan@zufe.edu.cn
+- Email: xiangwu.yan@xynu.edu.cn

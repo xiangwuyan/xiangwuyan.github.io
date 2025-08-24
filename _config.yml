@@ -25,15 +25,15 @@ author:
   avatar           : "profile.png"
   name             : "Xiang-Wu Yan"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in Economics, at ZUFE, Hangzhou, China."
-  location         : "Hangzhou, China"
+  bio              : "Ph.D. in Economics, young teacher at XYNU."
+  location         : "Xinyang, China"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "xiangwu.yan@zufe.edu.cn" 
+  email            : "xiangwu.yan@xynu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PZPaqRYAAAAJ&hl=zh-CN&oi=sra"
+  googlescholar    :  "https://scholar.google.com/citations?user=PZPaqRYAAAAJ&hl=zh-CN&oi=sra"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-6058-2960"
   semantic         : # URL
