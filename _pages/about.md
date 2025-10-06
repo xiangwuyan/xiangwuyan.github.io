@@ -98,12 +98,13 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)
 
 # <font color="#0070c0">Review work</font>
-**Reviewed for 27 journals :**
+**Reviewed for 29 journals :**
 
 - Applied Economics
 - Applied Economics Letters
 - Acta Oeconomica
 - Environment, Development and Sustainability
+- Economic Analysis and Policy
 - Energy Efficiency
 - Environmental Engineering and Management Journal
 - Economic Modelling
@@ -111,6 +112,7 @@ Early Career Researcher Editorial Board Member of [Journal of East European Mana
 - Frontiers in Environmental Science
 - Frontiers of Agricultural Science and Engineering
 - Humanities and Social Sciences Communications
+- International Review of Economics and Finance
 - International Review of Financial Analysis
 - Journal of Asian and African Studies
 - Journal of Computational Methods in Science and Engineering
@@ -134,7 +136,7 @@ Early Career Researcher Editorial Board Member of [Journal of East European Mana
 
 * B.S. in  logistics management,Zhengzhou University of Light Industry, 2015.9-2019.6
 * M.S. in  logistics engineering, Zhengzhou University of Light Industry, 2019.9-2022.6
-* Ph.D in  International trade, Zhejiang University of Finance and Economics, 2022.9-2025.6 (expected)
+* Ph.D in  International trade, Zhejiang University of Finance and Economics, 2022.9-2025.6 
 
 ---
 
