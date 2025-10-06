@@ -103,8 +103,8 @@ Early Career Researcher Editorial Board Member of [Journal of East European Mana
 - Applied Economics
 - Applied Economics Letters
 - Acta Oeconomica
-- Environment, Development and Sustainability
 - Economic Analysis and Policy
+- Environment, Development and Sustainability
 - Energy Efficiency
 - Environmental Engineering and Management Journal
 - Economic Modelling
