@@ -64,13 +64,10 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 ---
 
 # <font color="#0070c0">Economics notes</font>
-
+[【香樟推文3672】毕业后的第一份工作，决定了你的未来吗？](https://mp.weixin.qq.com/s/wLUmTDQwJeQkwmoHtWr5tQ)
 [【香樟推文3428】收入不平等与就业创造：企业融资的新视角](https://mp.weixin.qq.com/s/kxS5gVEIuyp96W39rTRMIA)
-
 [【香樟推文3545】出口扩张与中国中低技能职业兴起](https://mp.weixin.qq.com/s/E95tamufTlh7mczpIGF_vw)
-
 [【香樟推文3604】遥感数据在社科研究的测量误差陷阱](https://mp.weixin.qq.com/s/G77Q9BUnDoKJ1MnbWLnKUQ)
-
 [【计量经济圈】平行趋势非线性违背检验, 原理与代码解读](https://mp.weixin.qq.com/s/RgxM6UXlKgtsHBZEb6ewqg)
 
 ---
@@ -98,7 +95,7 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)
 
 # <font color="#0070c0">Review work</font>
-**Reviewed for 29 journals :**
+**Reviewed for 30 journals :**
 
 - Applied Economics
 - Applied Economics Letters
@@ -123,9 +120,10 @@ Early Career Researcher Editorial Board Member of [Journal of East European Mana
 - Plos One
 - Renewable Energy and Power Quality Journal
 - Review of Development Economics
+- Social Sciences & Humanities Open
+- Spatial Economic Analysis
 - Sustainable Development
 - Sustainability
-- Spatial Economic Analysis
 - Technology Analysis & Strategic Management
 - Technological Forecasting & Social Change
 - Urban Science
