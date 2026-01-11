@@ -43,6 +43,7 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 2. Cui XH, Xu N\*, <u>Yan XW</u>, et al. How does social credit system constructions affect corporate carbon emissions? Empirical evidence from Chinese listed companies[J]. Economics Letters, 2023, 231: 111309.[Full Text](https://www.sciencedirect.com/science/article/abs/pii/S0165176523003348)
 3. Li CY, <u>Yan XW</u>\*, Li BQ, et al. Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity. Frontiers in Environmental Science. 2021, 494 (9): 0-764941.[Full Text](https://www.frontiersin.org/articles/10.3389/fenvs.2021.764941/full)
 4. Li CY, <u>Yan XW</u>\*, Zhang YB, et al. Does Airport Preferential Policy Aggravate the Competition of Aviation Hubs in Central and Western China? Based on the Investigation of 78 Airports. Mathematical Problems in Engineering, Vol. 2021, Article ID 8387088, 14 pages, 2021. [Full Text](https://www.hindawi.com/journals/mpe/2021/8387088/)
+5. Xia H, Xu N, <u>Yan XW</u>\*, et al. Multiplan Integration Pilot Policy and Urban Low-Carbon Transformation: Microlevel Empirical Evidence from Chinese Listed Companies Based on Difference-in-Differences Analysis[J]. Journal of Urban Planning and Development, 2026, 152(1): 04025083.[Full Text](https://ascelibrary.org/doi/10.1061/JUPDDM.UPENG-5724)
 
 ---
 # <font color="#0070c0">Books</font>
@@ -61,9 +62,13 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 3. Zhejiang University of Finance & Economics GraduateResearch Project: Will Fair Competition Review System Restrain the Trend of "Shifting from RealEconomy to Virtual Economy?" <br>
 【校级：浙江财经大学田野调查项目：公平竞争审查制度对企业脱实向虚的影响研究（23TYDC035），2023/06-2024/05，结项，主持。】
 
+4. 【市级：信阳市软科学研究计划项目:大别山区生态文化产业创新发展研究（20250002），2025.11-2026.9，立项，主持。】
+
 ---
 
 # <font color="#0070c0">Economics notes</font>
+[【香樟推文3725】城市即生产力：全球5亿人职业履历的微观证据](https://mp.weixin.qq.com/s/ov0E3OurselVz6FB-8dbOQ)
+
 [【香樟推文3672】毕业后的第一份工作，决定了你的未来吗？](https://mp.weixin.qq.com/s/wLUmTDQwJeQkwmoHtWr5tQ)
 
 [【香樟推文3428】收入不平等与就业创造：企业融资的新视角](https://mp.weixin.qq.com/s/kxS5gVEIuyp96W39rTRMIA)
@@ -99,11 +104,11 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)
 
 # <font color="#0070c0">Review work</font>
-**Reviewed for 33 journals :**
-
+**Reviewed for 35 journals :**
+- 广东财经大学学报
+- Acta Oeconomica
 - Applied Economics
 - Applied Economics Letters
-- Acta Oeconomica
 - Cogent Business & Management
 - Economic Analysis and Policy
 - Environment, Development and Sustainability
@@ -119,6 +124,7 @@ Early Career Researcher Editorial Board Member of [Journal of East European Mana
 - International Review of Financial Analysis
 - Journal of Asian and African Studies
 - Journal of Computational Methods in Science and Engineering
+- Journal of East European Management Studies
 - Journal of Sustainable Tourism
 - Journal of the Asia Pacific Economy
 - Journal of Urban Technology
