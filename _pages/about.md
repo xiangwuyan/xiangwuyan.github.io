@@ -62,7 +62,8 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 3. Zhejiang University of Finance & Economics GraduateResearch Project: Will Fair Competition Review System Restrain the Trend of "Shifting from RealEconomy to Virtual Economy?" <br>
 【校级：浙江财经大学田野调查项目：公平竞争审查制度对企业脱实向虚的影响研究（23TYDC035），2023/06-2024/05，结项，主持。】
 
-4. 【市级：信阳市软科学研究计划项目:大别山区生态文化产业创新发展研究（20250002），2025.11-2026.9，立项，主持。】
+4. Xinyang City Soft Science Research Project  "Innovative Development of the Ecological Cultural Industry in the Dabie Mountains Region" (No. 20250002)<br>
+【市级：信阳市软科学研究计划项目:大别山区生态文化产业创新发展研究（20250002），2025.11-2026.9，立项，主持。】
 
 ---
 
