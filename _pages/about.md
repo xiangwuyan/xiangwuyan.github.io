@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal University
-. Research Interests: Industrial Organization and Trade, Environmental and Development Economics, Economic Statistical Analysis. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He published an academic book, presided over a Zhejiang Province's Xinmiao talent program, participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ). <br><font color="#974806">【严祥武（1996—），经济学博士，信阳师范大学青年教师。研究兴趣为产业组织与贸易、环境与发展经济学、经济统计分析。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持浙江省新苗课题一项，入选第七期“香樟青苗计划”。担任SSCI期刊Journal of East European Management Studies青年编委】。</font>
+. Research Interests: Industrial Organization and Trade, Environmental and Development Economics, Economic Statistical Analysis. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He Published one academic monograph, presided over two provincial-level research projects,and participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ). <br><font color="#974806">【严祥武（1996—），经济学博士，信阳师范大学青年教师。研究兴趣为产业组织与贸易、环境与发展经济学、经济统计分析。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持省级课题两项，入选第七期“香樟青苗计划”。担任SSCI期刊Journal of East European Management Studies青年编委】。</font>
 
 ---
 # <font color="#0070c0">Publications</font>
@@ -54,15 +54,17 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 # <font color="#0070c0">Fundings</font>
 1. National Natural Science Foundation of China （71803181）: The theoretical mechanisms and policy instruments of the carbon market system affecting economic fluctuations and expected inflation，2019/01-2021/12, Participated. <br>
 【国家级：国家自然科学基金青年科学基金项目：碳市场体系影响经济波动及预期通货膨胀的理论机制与政策工具研究（71803181），2019/01-2021/12，结项，参加】
+
+2. Henan Province Soft Science Project: Pathways and Countermeasures for High-Performance Governance to Drive High-Quality Development of Manufacturing Industry in Henan Province, 2026.1. <br>
+【省级：河南省软科学项目: 高效能治理驱动河南省制造业高质量发展的路径与对策研究，2026.1，立项，主持。】
   
-2. Zhejiang students' technology and innovation program (Xinmiao talent program): "Area-Based Evaluation Mechanism" Reform and Enterprise's High-Quality Growth: Viewpoint of Efficiency Change and Momentum Change, 2024.3. <br>
+3. Zhejiang students' technology and innovation program (Xinmiao talent program): "Area-Based Evaluation Mechanism" Reform and Enterprise's High-Quality Growth: Viewpoint of Efficiency Change and Momentum Change, 2024.3. <br>
 【省级：浙江省大学生科技创新活动计划（新苗人才计划）: “亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角（2024R414B038），2024.3，立项，主持。】[公示](https://cyqn.zufe.edu.cn/info/1013/4687.htm)
 
-
-3. Zhejiang University of Finance & Economics GraduateResearch Project: Will Fair Competition Review System Restrain the Trend of "Shifting from RealEconomy to Virtual Economy?" <br>
+4. Zhejiang University of Finance & Economics GraduateResearch Project: Will Fair Competition Review System Restrain the Trend of "Shifting from RealEconomy to Virtual Economy?" <br>
 【校级：浙江财经大学田野调查项目：公平竞争审查制度对企业脱实向虚的影响研究（23TYDC035），2023/06-2024/05，结项，主持。】
 
-4. Xinyang City Soft Science Research Project  "Innovative Development of the Ecological Cultural Industry in the Dabie Mountains Region" (No. 20250002)<br>
+5. Xinyang City Soft Science Research Project  "Innovative Development of the Ecological Cultural Industry in the Dabie Mountains Region" (No. 20250002)<br>
 【市级：信阳市软科学研究计划项目:大别山区生态文化产业创新发展研究（20250002），2025.11-2026.9，立项，主持。】
 
 ---
@@ -105,12 +107,13 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)
 
 # <font color="#0070c0">Review work</font>
-**Reviewed for 35 journals :**
+**Reviewed for 36 journals :**
 - 广东财经大学学报
 - Acta Oeconomica
 - Applied Economics
 - Applied Economics Letters
 - Cogent Business & Management
+- Cogent Economics & Finance
 - Economic Analysis and Policy
 - Environment, Development and Sustainability
 - Energy Efficiency
