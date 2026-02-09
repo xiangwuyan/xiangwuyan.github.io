@@ -55,11 +55,11 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 1. National Natural Science Foundation of China （71803181）: The theoretical mechanisms and policy instruments of the carbon market system affecting economic fluctuations and expected inflation，2019/01-2021/12, Participated. <br>
 【国家级：国家自然科学基金青年科学基金项目：碳市场体系影响经济波动及预期通货膨胀的理论机制与政策工具研究（71803181），2019/01-2021/12，结项，参加】
 
-2. Henan Province Soft Science Project: Pathways and Countermeasures for High-Performance Governance to Drive High-Quality Development of Manufacturing Industry in Henan Province, 2026.1. <br>
-【省级：河南省软科学项目: 高效能治理驱动河南省制造业高质量发展的路径与对策研究，2026.1，立项，主持。】
+2. Henan Province Soft Science Research Project: Pathways and Countermeasures for High-Performance Governance to Drive High-Quality Development of Manufacturing Industry in Henan Province, 2026.1. <br>
+【省级：河南省软科学项目: 高效能治理驱动河南省制造业高质量发展的路径与对策研究（262400411116），2026.1，立项，主持。】
   
 3. Zhejiang students' technology and innovation program (Xinmiao talent program): "Area-Based Evaluation Mechanism" Reform and Enterprise's High-Quality Growth: Viewpoint of Efficiency Change and Momentum Change, 2024.3. <br>
-【省级：浙江省大学生科技创新活动计划（新苗人才计划）: “亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角（2024R414B038），2024.3，立项，主持。】[公示](https://cyqn.zufe.edu.cn/info/1013/4687.htm)
+【省级：浙江省大学生科技创新活动计划（新苗人才计划）: “亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角（2024R414B038），2024.3，立项，主持。】
 
 4. Zhejiang University of Finance & Economics GraduateResearch Project: Will Fair Competition Review System Restrain the Trend of "Shifting from RealEconomy to Virtual Economy?" <br>
 【校级：浙江财经大学田野调查项目：公平竞争审查制度对企业脱实向虚的影响研究（23TYDC035），2023/06-2024/05，结项，主持。】
@@ -70,15 +70,17 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 ---
 
 # <font color="#0070c0">Economics notes</font>
+[【香樟推文3780】劳动力市场极化与城市大分流](https://mp.weixin.qq.com/s/scEund4778mYTifbDmdr-w)
+
 [【香樟推文3725】城市即生产力：全球5亿人职业履历的微观证据](https://mp.weixin.qq.com/s/ov0E3OurselVz6FB-8dbOQ)
 
 [【香樟推文3672】毕业后的第一份工作，决定了你的未来吗？](https://mp.weixin.qq.com/s/wLUmTDQwJeQkwmoHtWr5tQ)
 
-[【香樟推文3428】收入不平等与就业创造：企业融资的新视角](https://mp.weixin.qq.com/s/kxS5gVEIuyp96W39rTRMIA)
+[【香樟推文3604】遥感数据在社科研究的测量误差陷阱](https://mp.weixin.qq.com/s/G77Q9BUnDoKJ1MnbWLnKUQ)
 
 [【香樟推文3545】出口扩张与中国中低技能职业兴起](https://mp.weixin.qq.com/s/E95tamufTlh7mczpIGF_vw)
 
-[【香樟推文3604】遥感数据在社科研究的测量误差陷阱](https://mp.weixin.qq.com/s/G77Q9BUnDoKJ1MnbWLnKUQ)
+[【香樟推文3428】收入不平等与就业创造：企业融资的新视角](https://mp.weixin.qq.com/s/kxS5gVEIuyp96W39rTRMIA)
 
 [【计量经济圈】平行趋势非线性违背检验, 原理与代码解读](https://mp.weixin.qq.com/s/RgxM6UXlKgtsHBZEb6ewqg)
 
