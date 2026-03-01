@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>文本格式清理工具</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, "Microsoft YaHei", sans-serif; background: #f0f2f5; min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 20px; }
+  .container { background: #fff; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); padding: 32px; width: 100%; max-width: 720px; }
+  h1 { font-size: 20px; color: #1a1a1a; margin-bottom: 24px; text-align: center; font-weight: 600; }
+  label { display: block; font-size: 14px; color: #555; margin-bottom: 6px; }
+  textarea { width: 100%; height: 180px; border: 1px solid #d9d9d9; border-radius: 8px; padding: 12px; font-size: 14px; line-height: 1.6; resize: vertical; transition: border-color 0.2s; font-family: inherit; }
+  textarea:focus { outline: none; border-color: #4096ff; }
+  .btn-row { display: flex; gap: 10px; margin: 16px 0; }
+  button { flex: 1; padding: 10px 0; border: none; border-radius: 8px; font-size: 14px; cursor: pointer; transition: background 0.2s; font-family: inherit; }
+  .btn-primary { background: #4096ff; color: #fff; }
+  .btn-primary:hover { background: #1677ff; }
+  .btn-secondary { background: #f0f0f0; color: #333; }
+  .btn-secondary:hover { background: #e0e0e0; }
+  .options { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 16px; }
+  .options label { display: flex; align-items: center; gap: 4px; font-size: 13px; color: #333; cursor: pointer; user-select: none; }
+  .toast { position: fixed; top: 20px; left: 50%; transform: translateX(-50%); background: #333; color: #fff; padding: 8px 20px; border-radius: 6px; font-size: 13px; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
+  .toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>文本格式清理工具</h1>
+
+  <label for="input">粘贴原始文本：</label>
+  <textarea id="input" placeholder="在此粘贴需要清理格式的文本..."></textarea>
+
+  <div class="options">
+    <label><input type="checkbox" id="optSpaces" checked> 合并多余空格</label>
+    <label><input type="checkbox" id="optNewlines" checked> 去除换行符</label>
+    <label><input type="checkbox" id="optTabs" checked> 去除制表符</label>
+    <label><input type="checkbox" id="optTrim" checked> 去除首尾空白</label>
+    <label><input type="checkbox" id="optFullwidth"> 全角空格转半角</label>
+  </div>
+
+  <div class="btn-row">
+    <button class="btn-primary" onclick="clean()">清理格式</button>
+    <button class="btn-secondary" onclick="copyResult()">复制结果</button>
+    <button class="btn-secondary" onclick="clearAll()">清空</button>
+  </div>
+
+  <label for="output">清理结果：</label>
+  <textarea id="output" readonly placeholder="清理后的文本将显示在这里..."></textarea>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+function clean() {
+  let text = document.getElementById('input').value;
+  if (!text) return;
+
+  if (document.getElementById('optTabs').checked) {
+    text = text.replace(/\t/g, ' ');
+  }
+  if (document.getElementById('optFullwidth').checked) {
+    text = text.replace(/\u3000/g, ' ');
+  }
+  if (document.getElementById('optNewlines').checked) {
+    text = text.replace(/\r?\n/g, ' ');
+  }
+  if (document.getElementById('optSpaces').checked) {
+    text = text.replace(/ {2,}/g, ' ');
+  }
+  if (document.getElementById('optTrim').checked) {
+    text = text.trim();
+  }
+
+  document.getElementById('output').value = text;
+}
+
+function copyResult() {
+  const output = document.getElementById('output');
+  if (!output.value) { showToast('没有可复制的内容'); return; }
+  navigator.clipboard.writeText(output.value).then(() => showToast('已复制到剪贴板'));
+}
+
+function clearAll() {
+  document.getElementById('input').value = '';
+  document.getElementById('output').value = '';
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 1500);
+}
+
+// 输入时自动清理
+document.getElementById('input').addEventListener('input', clean);
+</script>
+</body>
+</html>
