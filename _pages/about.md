@@ -12,10 +12,8 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 . Research Interests: Industrial Organization and Trade, Environmental and Development Economics, Economic Statistical Analysis. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He Published one academic monograph, presided over two provincial-level research projects,and participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ). <br><font color="#974806">【严祥武（1996—），经济学博士，信阳师范大学青年教师。研究兴趣为产业组织与贸易、环境与发展经济学、经济统计分析。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持省级课题两项，入选第七期“香樟青苗计划”。担任SSCI期刊Journal of East European Management Studies青年编委】。</font>
 
 ---
-
-# 实用工具
+# <font color="#0070c0">Daily tools</font>
 [文本格式清理工具](http://xiangwuyan.github.io/files/文本格式清理工具.html)
-
 
 ---
 # <font color="#0070c0">Publications</font>
