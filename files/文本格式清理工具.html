@@ -36,6 +36,7 @@
     <label><input type="checkbox" id="optNewlines" checked> 去除换行符</label>
     <label><input type="checkbox" id="optTabs" checked> 去除制表符</label>
     <label><input type="checkbox" id="optTrim" checked> 去除首尾空白</label>
+    <label><input type="checkbox" id="optCJKSpaces" checked> 去除中文间空格</label>
     <label><input type="checkbox" id="optFullwidth"> 全角空格转半角</label>
   </div>
 
@@ -67,6 +68,12 @@ function clean() {
   }
   if (document.getElementById('optSpaces').checked) {
     text = text.replace(/ {2,}/g, ' ');
+  }
+  // 去除中文字符之间的空格（包括中文标点）
+  if (document.getElementById('optCJKSpaces').checked) {
+    text = text.replace(/([\u4e00-\u9fff\u3000-\u303f\uff00-\uffef])\s+([\u4e00-\u9fff\u3000-\u303f\uff00-\uffef])/g, '$1$2');
+    // 需要重复执行，因为正则匹配不重叠（如 "中 文 字" 第一次只匹配 "中 文"）
+    text = text.replace(/([\u4e00-\u9fff\u3000-\u303f\uff00-\uffef])\s+([\u4e00-\u9fff\u3000-\u303f\uff00-\uffef])/g, '$1$2');
   }
   if (document.getElementById('optTrim').checked) {
     text = text.trim();
