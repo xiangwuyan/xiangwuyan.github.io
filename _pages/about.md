@@ -43,11 +43,12 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 
 
 ### <font color="#8470FF">Theme 3: Green economy</font>
-1. Ai KP, <u>Yan XW</u>\*. Can green infrastructure investment reduce urban carbon emissions? Empirical evidence from China. [J]. Land，2024, 13, 226.[Full Text](https://www.mdpi.com/2073-445X/13/2/226)
-2. Cui XH, Xu N\*, <u>Yan XW</u>, et al. How does social credit system constructions affect corporate carbon emissions? Empirical evidence from Chinese listed companies[J]. Economics Letters, 2023, 231: 111309.[Full Text](https://www.sciencedirect.com/science/article/abs/pii/S0165176523003348)
-3. Li CY, <u>Yan XW</u>\*, Li BQ, et al. Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity. Frontiers in Environmental Science. 2021, 494 (9): 0-764941.[Full Text](https://www.frontiersin.org/articles/10.3389/fenvs.2021.764941/full)
-4. Li CY, <u>Yan XW</u>\*, Zhang YB, et al. Does Airport Preferential Policy Aggravate the Competition of Aviation Hubs in Central and Western China? Based on the Investigation of 78 Airports. Mathematical Problems in Engineering, Vol. 2021, Article ID 8387088, 14 pages, 2021. [Full Text](https://www.hindawi.com/journals/mpe/2021/8387088/)
-5. Xia H, Xu N, <u>Yan XW</u>\*, et al. Multiplan Integration Pilot Policy and Urban Low-Carbon Transformation: Microlevel Empirical Evidence from Chinese Listed Companies Based on Difference-in-Differences Analysis[J]. Journal of Urban Planning and Development, 2026, 152(1): 04025083.[Full Text](https://ascelibrary.org/doi/10.1061/JUPDDM.UPENG-5724)
+1. Yan X W. Government Open Data and Green Collaborative Innovation: Firm-Level Evidence from China[J]. Sustainability, 2026, 18(13): 6464. [Full Text](https://doi.org/10.3390/su18136464)
+2. Ai KP, <u>Yan XW</u>\*. Can green infrastructure investment reduce urban carbon emissions? Empirical evidence from China. [J]. Land，2024, 13, 226.[Full Text](https://www.mdpi.com/2073-445X/13/2/226)
+3. Cui XH, Xu N\*, <u>Yan XW</u>, et al. How does social credit system constructions affect corporate carbon emissions? Empirical evidence from Chinese listed companies[J]. Economics Letters, 2023, 231: 111309.[Full Text](https://www.sciencedirect.com/science/article/abs/pii/S0165176523003348)
+4. Li CY, <u>Yan XW</u>\*, Li BQ, et al. Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity. Frontiers in Environmental Science. 2021, 494 (9): 0-764941.[Full Text](https://www.frontiersin.org/articles/10.3389/fenvs.2021.764941/full)
+5. Li CY, <u>Yan XW</u>\*, Zhang YB, et al. Does Airport Preferential Policy Aggravate the Competition of Aviation Hubs in Central and Western China? Based on the Investigation of 78 Airports. Mathematical Problems in Engineering, Vol. 2021, Article ID 8387088, 14 pages, 2021. [Full Text](https://www.hindawi.com/journals/mpe/2021/8387088/)
+6. Xia H, Xu N, <u>Yan XW</u>\*, et al. Multiplan Integration Pilot Policy and Urban Low-Carbon Transformation: Microlevel Empirical Evidence from Chinese Listed Companies Based on Difference-in-Differences Analysis[J]. Journal of Urban Planning and Development, 2026, 152(1): 04025083.[Full Text](https://ascelibrary.org/doi/10.1061/JUPDDM.UPENG-5724)
 
 ---
 # <font color="#0070c0">Books</font>
@@ -113,7 +114,7 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)
 
 # <font color="#0070c0">Review work</font>
-**Reviewed for 47 journals :**
+**Reviewed for 53 journals :**
 - 广东财经大学学报
 - Acta Oeconomica
 - Applied Economics
@@ -136,7 +137,10 @@ Early Career Researcher Editorial Board Member of [Journal of East European Mana
 - Frontiers in Political Science
 - Frontiers of Agricultural Science and Engineering
 - Global Economics Research
+- GIScience & Remote Sensing 
+- Habitat International
 - Humanities and Social Sciences Communications
+- International Journal of Urban Sciences 
 - International Review of Economics and Finance
 - International Review of Financial Analysis
 - Journal of Asian and African Studies
@@ -151,8 +155,10 @@ Early Career Researcher Editorial Board Member of [Journal of East European Mana
 - Plos One
 - Renewable Energy and Power Quality Journal
 - Review of Development Economics
+- sage open
 - Social Sciences & Humanities Open
 - Spatial Economic Analysis
+- systems
 - Sustainable Cities and Society
 - Sustainable Development
 - Sustainable Futures
@@ -160,6 +166,7 @@ Early Career Researcher Editorial Board Member of [Journal of East European Mana
 - Technology Analysis & Strategic Management
 - Technological Forecasting & Social Change
 - Telecommunications Policy
+- Transportation Research Part E
 - Urban Science
 
 ---
