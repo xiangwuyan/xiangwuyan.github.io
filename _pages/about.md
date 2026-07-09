@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal University
-. Research Interests: Industrial Organization and Trade, Environmental and Development Economics, Economic Statistical Analysis. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He Published one academic monograph, presided over two provincial-level research projects,and participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ). <br><font color="#974806">【严祥武（1996—），经济学博士，信阳师范大学青年教师。研究兴趣为产业组织与贸易、环境与发展经济学、经济统计分析。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持省级课题两项，入选第七期“香樟青苗计划”。担任SSCI期刊Journal of East European Management Studies青年编委】。</font>
+. Research interests include economic statistics, differentiated allocation of production factors, and environmental and development economics. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He Published one academic monograph, presided over two provincial-level research projects,and participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ). <br><font color="#974806">【严祥武（1996—），经济学博士，信阳师范大学青年教师。研究兴趣为经济统计、要素差别化配置、环境与发展经济学。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持省级课题两项，入选第七期“香樟青苗计划”。担任SSCI期刊Journal of East European Management Studies青年编委】。</font>
 
 ---
 # <font color="#0070c0">Daily tools</font>
@@ -75,6 +75,9 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 ---
 
 # <font color="#0070c0">Economics notes</font>
+
+[【香樟推文3889】老师少讲一点，学生会学得更多吗？](https://mp.weixin.qq.com/s/Q7cPdjkak1oO84DUnurr2g)
+
 [【香樟推文3780】劳动力市场极化与城市大分流](https://mp.weixin.qq.com/s/scEund4778mYTifbDmdr-w)
 
 [【香樟推文3725】城市即生产力：全球5亿人职业履历的微观证据](https://mp.weixin.qq.com/s/ov0E3OurselVz6FB-8dbOQ)
