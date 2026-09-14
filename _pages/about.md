@@ -19,9 +19,13 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 # <font color="#0070c0">Publications</font>
 
 ### <font color="#8470FF">Theme 1: International economy</font>
-1.  Wang ZX, Tang BX,<u>Yan XW</u>\*.  The impact of administrative boundaries on foreign direct investments in China's Yangtze River Delta region[J]. China Economic Review, 2024: 102171.[Full Text](https://www.sciencedirect.com/science/article/pii/S1043951X24000609)
-2. Wang ZX, <u>Yan XW</u>\* Digital Divide and Trade Distance Elasticity: A Re-examination of the Distance Puzzle, Seeking Truth, 2023(3):66-81. <br>
+
+1. Yan XW, <u>Wang ZX</u>\* Bilateral Information Improvement and Trade Distance Elasticity: Evidence from Cross-border E-commerce Platform, Seeking Truth, 2026,53(4):89-104. <br>
+【严祥武，<u>王正新</u>\*. 双向信息改善与贸易距离弹性：来自跨境电商平台的证据[J].求是学刊,2026,53(4):89-104】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2026.04.008)
+2.  Wang ZX, Tang BX,<u>Yan XW</u>\*.  The impact of administrative boundaries on foreign direct investments in China's Yangtze River Delta region[J]. China Economic Review, 2024: 102171.[Full Text](https://www.sciencedirect.com/science/article/pii/S1043951X24000609)
+32. Wang ZX, <u>Yan XW</u>\* Digital Divide and Trade Distance Elasticity: A Re-examination of the Distance Puzzle, Seeking Truth, 2023(3):66-81. <br>
 【王正新，<u>严祥武</u>\*. 数字鸿沟与贸易距离弹性：“距离之谜”的再探究[J].求是学刊,2023(3):66-81.(CSSCI，人大复印资料《国际贸易研究》2023年第10期全文转载)】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2023.03.007)
+
 
 
 ###  <font color="#8470FF">Theme 2: Industrial economy</font>
@@ -75,6 +79,7 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 ---
 
 # <font color="#0070c0">Economics notes</font>
+[【香樟推文3913】近四十年中国大学生就业统计分析：趋势、群体差异与雇主反应](https://mp.weixin.qq.com/s/M06c--8E1XO5P0_LoUlMNw)
 
 [【香樟推文3889】老师少讲一点，学生会学得更多吗？](https://mp.weixin.qq.com/s/Q7cPdjkak1oO84DUnurr2g)
 
@@ -93,6 +98,9 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 [【计量经济圈】平行趋势非线性违背检验, 原理与代码解读](https://mp.weixin.qq.com/s/RgxM6UXlKgtsHBZEb6ewqg)
 
 ---
+# <font color="#0070c0">Useful knowledges</font>
+[为什么核心解释变量不推荐使用综合测度指标？](https://mp.weixin.qq.com/s/KHI_KcQw0tTOiM7KhszUwQ?scene=1&click_id=1552605071)
+
 
 # <font color="#0070c0">Academic activities</font>
 
@@ -117,14 +125,16 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)
 
 # <font color="#0070c0">Review work</font>
-**Reviewed for 62 journals :**
+**Reviewed for 64 journals :**
 - 广东财经大学学报
 - Acta Oeconomica
 - Advances in Business and Management Research
 - Applied Economics
 - Applied Economics Letters
 - Applied Geography
+- Applied Water Science
 - Asian-Pacific Economic 
+- Asia & the Pacific Policy Studies 
 - Cogent Business & Management
 - Cogent Economics & Finance
 - Economic Analysis and Policy
