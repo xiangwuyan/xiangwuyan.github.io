@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal University
-. Research interests include economic statistics, differentiated allocation of production factors, and environmental and development economics. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He Published one academic monograph, presided over two provincial-level research projects,and participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ). <br><font color="#974806">【严祥武（1996—），经济学博士，信阳师范大学青年教师。研究兴趣为经济统计、要素差别化配置、环境与发展经济学。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持省级课题两项，入选第七期“香樟青苗计划”。担任SSCI期刊Journal of East European Management Studies青年编委】。</font>
+. Research interests include economic statistics, differentiated allocation of production factors, and environmental and development economics. Representative works were published in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population,Resources and Environment**, **Seeking Truth** . He Published one academic monograph, presided over two provincial-level research projects,and participated in the 7th  Camphor Economic Circle (CEC) Youth Scholar Project. Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ). He has reviewed for more than 70 academic journals. <br><font color="#974806">【严祥武（1996—），经济学博士，信阳师范大学青年教师。研究兴趣为经济统计、要素差别化配置、环境与发展经济学。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持省级课题两项，入选第七期“香樟青苗计划”。担任SSCI期刊Journal of East European Management Studies青年编委。为70余种学术期刊审稿】。</font>
 
 ---
 # <font color="#0070c0">Daily tools</font>
@@ -125,44 +125,50 @@ Xiang-Wu Yan (1996-), PhD in Economics, young teacher at Xinyang Normal Universi
 Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](https://mp.weixin.qq.com/s/T2tIcoAkxMBRCMowaETtlQ)
 
 # <font color="#0070c0">Review work</font>
-**Reviewed for 64 journals :**
+**Reviewed for 72 journals :**
 - 广东财经大学学报
+- 求是学刊
 - Acta Oeconomica
 - Advances in Business and Management Research
 - Applied Economics
 - Applied Economics Letters
 - Applied Geography
 - Applied Water Science
-- Asian-Pacific Economic 
 - Asia & the Pacific Policy Studies 
+- Asian-Pacific Economic 
+- China Economic Review
 - Cogent Business & Management
 - Cogent Economics & Finance
+- Ecological Indicators
 - Economic Analysis and Policy
 - Economic Change and Restructuring
 - Economic Modelling
-- Ecological Indicators
-- Environment, Development and Sustainability
-- Environmental Management: Economics and Policy
-- Energy Efficiency
 - Economies
-- Environmental Engineering and Management Journal
+- Emerging Markets Finance and Trade
+- Energy Efficiency
 - Energy Sources, Part B: Economics, Planning, and Policy
 - Energy Strategy Reviews
+- Environment, Development and Sustainability
+- Environmental Development
+- Environmental Engineering and Management Journal
+- Environmental Management: Economics and Policy
 - Environmental Science & Policy
-- Emerging Markets Finance and Trade
 - Finance Research Letters
 - Frontiers in Environmental Science
 - Frontiers in Political Science
 - Frontiers in Sustainable Food Systems
 - Frontiers of Agricultural Science and Engineering
-- Global Economics Research
 - GIScience & Remote Sensing 
+- Global Economics Research
 - Habitat International
 - Humanities and Social Sciences Communications
+- International Journal of Emerging Markets
 - International Journal of Energy Research
+- International Journal of Systematic Innovation
 - International Journal of Urban Sciences 
 - International Review of Economics and Finance
 - International Review of Financial Analysis
+- Journal of Architectural and Planning Research
 - Journal of Asian and African Studies
 - Journal of Computational Methods in Science and Engineering
 - Journal of East European Management Studies
@@ -173,6 +179,8 @@ Early Career Researcher Editorial Board Member of [Journal of East European Mana
 - Journal of Urban Planning and Development
 - Journal of Urban Technology
 - Natural Resources Forum
+- Open Research Europe
+- Planning Practice & Research
 - Plos One
 - Post-Communist Economies
 - Renewable Energy and Power Quality Journal
@@ -180,13 +188,13 @@ Early Career Researcher Editorial Board Member of [Journal of East European Mana
 - sage open
 - Social Sciences & Humanities Open
 - Spatial Economic Analysis
-- systems
+- Sustainability
 - Sustainable Cities and Society
 - Sustainable Development
 - Sustainable Futures
-- Sustainability
-- Technology Analysis & Strategic Management
+- systems
 - Technological Forecasting & Social Change
+- Technology Analysis & Strategic Management
 - Telecommunications Policy
 - Transportation Research Part E
 - Urban Science
