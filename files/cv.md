@@ -1,11 +1,4 @@
----
-layout: single
-title: "Curriculum Vitae"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+# Curriculum Vitae
 
 Xiang-Wu Yan is a faculty member at Xinyang Normal University. His research focuses on industrial economics, international trade, and environmental and development economics.
 
@@ -19,7 +12,7 @@ Xiang-Wu Yan is a faculty member at Xinyang Normal University. His research focu
 
 ## Publications
 
-[View all journal articles and the coauthored monograph](/publications/).
+[View all journal articles and the coauthored monograph](https://github.com/xiangwuyan/xiangwuyan.github.io/blob/master/files/publications.md).
 
 ## Research Grants
 
