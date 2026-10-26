@@ -1,10 +1,10 @@
 ---
 layout: document
-title: 代表性成果
+title: Representative Research
 permalink: /files/publications.html
 ---
 
-# 代表性成果
+# Representative Research
 
 ## English-language articles
 

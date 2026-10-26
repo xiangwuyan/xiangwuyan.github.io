@@ -16,9 +16,9 @@ Xiang-Wu Yan holds a Ph.D. in Economics. His research focuses on industrial econ
 | M.S. in Logistics Engineering | Zhengzhou University of Light Industry | September 2019 to June 2022 |
 | B.S. in Logistics Management | Zhengzhou University of Light Industry | September 2015 to June 2019 |
 
-## 代表性成果
+## Representative Research
 
-[代表性成果](/files/publications.html).
+[Representative Research](/files/publications.html).
 
 ## Research Grants
 

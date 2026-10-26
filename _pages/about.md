@@ -9,7 +9,7 @@ redirect_from:
 
 Xiang-Wu Yan holds a Ph.D. in Economics. His research interests include industrial economics, international trade, and environmental and development economics, with a focus on policy reform, firm behavior, and green transformation.
 
-## 代表性成果
+## Representative Research
 
 ### English-language articles
 
@@ -39,7 +39,7 @@ Xiang-Wu Yan holds a Ph.D. in Economics. His research interests include industri
 
 Li CY, **Yan XW**. *The strategy of basic factor market allocation for smooth domestic circulation*. China Agriculture Press, 2022. [Cover & Catalogue](/files/2022专著.pdf)
 
-[代表性成果详细信息](/files/publications.html)
+[Representative research details](/files/publications.html)
 
 ## Selected Research Grants
 
