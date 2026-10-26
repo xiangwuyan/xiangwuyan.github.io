@@ -6,7 +6,7 @@ permalink: /files/cv.html
 
 # Curriculum Vitae
 
-Xiang-Wu Yan is a faculty member at Xinyang Normal University. His research focuses on industrial economics, international trade, and environmental and development economics.
+Xiang-Wu Yan holds a Ph.D. in Economics. His research focuses on industrial economics, international trade, and environmental and development economics.
 
 ## Education
 
@@ -16,9 +16,9 @@ Xiang-Wu Yan is a faculty member at Xinyang Normal University. His research focu
 | M.S. in Logistics Engineering | Zhengzhou University of Light Industry | September 2019 to June 2022 |
 | B.S. in Logistics Management | Zhengzhou University of Light Industry | September 2015 to June 2019 |
 
-## Publications
+## Selected Publications
 
-[View all journal articles and the coauthored monograph](/files/publications.html).
+[Selected publications](/files/publications.html).
 
 ## Research Grants
 
@@ -64,10 +64,81 @@ Invited Handling Editor for [Frontiers in Political Science](https://www.frontie
 
 ### Journal Reviewing
 
-广东财经大学学报; 求是学刊; Acta Oeconomica; Advances in Business and Management Research; Applied Economics; Applied Economics Letters; Applied Geography; Applied Water Science; Asia & the Pacific Policy Studies; Asian-Pacific Economic; China Economic Review; Cogent Business & Management; Cogent Economics & Finance; Ecological Indicators; Economic Analysis and Policy; Economic Change and Restructuring; Economic Modelling; Economies; Emerging Markets Finance and Trade; Energy Efficiency; Energy Sources, Part B: Economics, Planning, and Policy; Energy Strategy Reviews; Environment, Development and Sustainability; Environmental Development; Environmental Engineering and Management Journal; Environmental Management: Economics and Policy; Environmental Science & Policy; Finance Research Letters; Frontiers in Environmental Science; Frontiers in Political Science; Frontiers in Sustainable Food Systems; Frontiers of Agricultural Science and Engineering; GIScience & Remote Sensing; Global Economics Research; Habitat International; Humanities and Social Sciences Communications; International Journal of Emerging Markets; International Journal of Energy Research; International Journal of Systematic Innovation; International Journal of Urban Sciences; International Review of Economics and Finance; International Review of Financial Analysis; Journal of Architectural and Planning Research; Journal of Asian and African Studies; Journal of Computational Methods in Science and Engineering; Journal of East European Management Studies; Journal of Public Policy; Journal of Sustainable Tourism; Journal of the Asia Pacific Economy; Journal of Urban Management; Journal of Urban Planning and Development; Journal of Urban Technology; Natural Resources Forum; Open Research Europe; Planning Practice & Research; PLOS ONE; Post-Communist Economies; Renewable Energy and Power Quality Journal; Review of Development Economics; SAGE Open; Social Sciences & Humanities Open; Spatial Economic Analysis; Sustainability; Sustainable Cities and Society; Sustainable Development; Sustainable Futures; systems; Technological Forecasting & Social Change; Technology Analysis & Strategic Management; Telecommunications Policy; Transportation Research Part E; Urban Science.
+| No. | Journal |
+| ---: | --- |
+| 1 | 广东财经大学学报 |
+| 2 | 求是学刊 |
+| 3 | Acta Oeconomica |
+| 4 | Advances in Business and Management Research |
+| 5 | Applied Economics |
+| 6 | Applied Economics Letters |
+| 7 | Applied Geography |
+| 8 | Applied Water Science |
+| 9 | Asia & the Pacific Policy Studies |
+| 10 | Asian-Pacific Economic |
+| 11 | China Economic Review |
+| 12 | Cogent Business & Management |
+| 13 | Cogent Economics & Finance |
+| 14 | Ecological Indicators |
+| 15 | Economic Analysis and Policy |
+| 16 | Economic Change and Restructuring |
+| 17 | Economic Modelling |
+| 18 | Economies |
+| 19 | Emerging Markets Finance and Trade |
+| 20 | Energy Efficiency |
+| 21 | Energy Sources, Part B: Economics, Planning, and Policy |
+| 22 | Energy Strategy Reviews |
+| 23 | Environment, Development and Sustainability |
+| 24 | Environmental Development |
+| 25 | Environmental Engineering and Management Journal |
+| 26 | Environmental Management: Economics and Policy |
+| 27 | Environmental Science & Policy |
+| 28 | Finance Research Letters |
+| 29 | Frontiers in Environmental Science |
+| 30 | Frontiers in Political Science |
+| 31 | Frontiers in Sustainable Food Systems |
+| 32 | Frontiers of Agricultural Science and Engineering |
+| 33 | GIScience & Remote Sensing |
+| 34 | Global Economics Research |
+| 35 | Habitat International |
+| 36 | Humanities and Social Sciences Communications |
+| 37 | International Journal of Emerging Markets |
+| 38 | International Journal of Energy Research |
+| 39 | International Journal of Systematic Innovation |
+| 40 | International Journal of Urban Sciences |
+| 41 | International Review of Economics and Finance |
+| 42 | International Review of Financial Analysis |
+| 43 | Journal of Architectural and Planning Research |
+| 44 | Journal of Asian and African Studies |
+| 45 | Journal of Computational Methods in Science and Engineering |
+| 46 | Journal of East European Management Studies |
+| 47 | Journal of Public Policy |
+| 48 | Journal of Sustainable Tourism |
+| 49 | Journal of the Asia Pacific Economy |
+| 50 | Journal of Urban Management |
+| 51 | Journal of Urban Planning and Development |
+| 52 | Journal of Urban Technology |
+| 53 | Natural Resources Forum |
+| 54 | Open Research Europe |
+| 55 | Planning Practice & Research |
+| 56 | PLOS ONE |
+| 57 | Post-Communist Economies |
+| 58 | Renewable Energy and Power Quality Journal |
+| 59 | Review of Development Economics |
+| 60 | SAGE Open |
+| 61 | Social Sciences & Humanities Open |
+| 62 | Spatial Economic Analysis |
+| 63 | Sustainability |
+| 64 | Sustainable Cities and Society |
+| 65 | Sustainable Development |
+| 66 | Sustainable Futures |
+| 67 | systems |
+| 68 | Technological Forecasting & Social Change |
+| 69 | Technology Analysis & Strategic Management |
+| 70 | Telecommunications Policy |
+| 71 | Transportation Research Part E |
+| 72 | Urban Science |
 
 ## Contact
 
 [xiangwu.yan@xynu.edu.cn](mailto:xiangwu.yan@xynu.edu.cn)
-
-Xinyang Normal University, 237 Nanhu Road, Xinyang, Henan, China.

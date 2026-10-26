@@ -1,12 +1,10 @@
 ---
 layout: document
-title: Publications
+title: Selected Publications
 permalink: /files/publications.html
 ---
 
-# Publications
-
-Journal articles and a coauthored monograph. An asterisk denotes the corresponding author.
+# Selected Publications
 
 ## English-language articles
 
@@ -14,17 +12,9 @@ Journal articles and a coauthored monograph. An asterisk denotes the correspondi
 
 2. Wang ZX, **Yan XW**\*. Does administrative monopoly regulation restrain enterprise over-financialization? Evidence from China’s Fair Competition Review System, Journal of Management Science and Engineering (管理科学学报英文版), 2025, 10(2), 158-174. [Full Text](https://www.sciencedirect.com/science/article/pii/S2096232024000581)
 
-3. **Yan XW**. Government Open Data and Green Collaborative Innovation: Firm-Level Evidence from China[J]. Sustainability, 2026, 18(13): 6464. [Full Text](https://doi.org/10.3390/su18136464)
+3. Cui XH, Xu N\*, **Yan XW**, et al. How does social credit system constructions affect corporate carbon emissions? Empirical evidence from Chinese listed companies[J]. Economics Letters, 2023, 231: 111309.[Full Text](https://www.sciencedirect.com/science/article/abs/pii/S0165176523003348)
 
-4. Ai KP, **Yan XW**\*. Can green infrastructure investment reduce urban carbon emissions? Empirical evidence from China. [J]. Land，2024, 13, 226.[Full Text](https://www.mdpi.com/2073-445X/13/2/226)
-
-5. Cui XH, Xu N\*, **Yan XW**, et al. How does social credit system constructions affect corporate carbon emissions? Empirical evidence from Chinese listed companies[J]. Economics Letters, 2023, 231: 111309.[Full Text](https://www.sciencedirect.com/science/article/abs/pii/S0165176523003348)
-
-6. Li CY, **Yan XW**\*, Li BQ, et al. Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity. Frontiers in Environmental Science. 2021, 494 (9): 0-764941.[Full Text](https://www.frontiersin.org/articles/10.3389/fenvs.2021.764941/full)
-
-7. Li CY, **Yan XW**\*, Zhang YB, et al. Does Airport Preferential Policy Aggravate the Competition of Aviation Hubs in Central and Western China? Based on the Investigation of 78 Airports. Mathematical Problems in Engineering, Vol. 2021, Article ID 8387088, 14 pages, 2021. [Full Text](https://www.hindawi.com/journals/mpe/2021/8387088/)
-
-8. Xia H, Xu N, **Yan XW**\*, et al. Multiplan Integration Pilot Policy and Urban Low-Carbon Transformation: Microlevel Empirical Evidence from Chinese Listed Companies Based on Difference-in-Differences Analysis[J]. Journal of Urban Planning and Development, 2026, 152(1): 04025083.[Full Text](https://ascelibrary.org/doi/10.1061/JUPDDM.UPENG-5724)
+4. Xia H, Xu N, **Yan XW**\*, et al. Multiplan Integration Pilot Policy and Urban Low-Carbon Transformation: Microlevel Empirical Evidence from Chinese Listed Companies Based on Difference-in-Differences Analysis[J]. Journal of Urban Planning and Development, 2026, 152(1): 04025083.[Full Text](https://ascelibrary.org/doi/10.1061/JUPDDM.UPENG-5724)
 
 ## Chinese-language articles
 

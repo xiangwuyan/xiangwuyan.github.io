@@ -11,8 +11,6 @@ Xiang-Wu Yan holds a Ph.D. in Economics. His research interests include industri
 
 ## Selected Publications
 
-An asterisk denotes the corresponding author.
-
 ### English-language articles
 
 1. Wang ZX, Tang BX,**Yan XW**\*.  The impact of administrative boundaries on foreign direct investments in China's Yangtze River Delta region[J]. China Economic Review, 2024: 102171.[Full Text](https://www.sciencedirect.com/science/article/pii/S1043951X24000609)
@@ -41,7 +39,7 @@ An asterisk denotes the corresponding author.
 
 Li CY, **Yan XW**. *The strategy of basic factor market allocation for smooth domestic circulation*. China Agriculture Press, 2022. [Cover & Catalogue](/files/2022专著.pdf)
 
-[View all publications](/files/publications.html)
+[Selected publications with full bibliographic details](/files/publications.html)
 
 ## Selected Research Grants
 
