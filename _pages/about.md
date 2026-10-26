@@ -1,211 +1,66 @@
 ---
+layout: single
 permalink: /
-#title: "Bio"
-
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Xiang-Wu Yan (1996- ) holds a PhD in Economics. His research focuses on industrial economics, international trade, and environmental and development economics. His work has appeared in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population, Resources and Environment**, and **Seeking Truth**. He has published one academic monograph and led two provincial-level research projects. He was also selected for the seventh cohort of the Camphor Economic Circle (CEC) Young Scholars Program. He serves as an Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](www.imrpress.com/journal/JEEMS) and has been invited to serve as a handling editor for [Frontiers in Political Science](https://www.frontiersin.org/journals/political-science). He has also reviewed for more than 70 academic journals. <br>
+Xiang-Wu Yan is a faculty member at Xinyang Normal University. He received his Ph.D. in International Trade from Zhejiang University of Finance and Economics in 2025. His research focuses on industrial economics, international trade, and environmental and development economics, with particular interests in policy reform, firm behavior, and green transformation.
 
----
-# <font color="#0070c0">Daily tools</font>
-[文本格式清理工具](http://xiangwuyan.github.io/files/文本格式清理工具.html)
+[Curriculum vitae](/cv/) · [All publications](/publications/) · [Resources](/resources/)
 
----
-# <font color="#0070c0">Selected Publications</font>
+## Selected Publications
 
-### <font color="#8470FF">English-language publications</font>
+An asterisk denotes the corresponding author.
 
-1. Wang ZX, Tang BX,<u>Yan XW</u>\*.  The impact of administrative boundaries on foreign direct investments in China's Yangtze River Delta region[J]. China Economic Review, 2024: 102171.[Full Text](https://www.sciencedirect.com/science/article/pii/S1043951X24000609)
+### English-language articles
 
-2. Cui XH, Xu N\*, <u>Yan XW</u>, et al. How does social credit system constructions affect corporate carbon emissions? Empirical evidence from Chinese listed companies[J]. Economics Letters, 2023, 231: 111309.[Full Text](https://www.sciencedirect.com/science/article/abs/pii/S0165176523003348)
+1. Wang ZX, Tang BX,**Yan XW**\*.  The impact of administrative boundaries on foreign direct investments in China's Yangtze River Delta region[J]. China Economic Review, 2024: 102171.[Full Text](https://www.sciencedirect.com/science/article/pii/S1043951X24000609)
 
-3. Wang ZX, <u>Yan XW</u>\*. Does administrative monopoly regulation restrain enterprise over-financialization? Evidence from China’s Fair Competition Review System, Journal of Management Science and Engineering (管理科学学报英文版), 2025, 10(2), 158-174. [Full Text](https://www.sciencedirect.com/science/article/pii/S2096232024000581)
+2. Cui XH, Xu N\*, **Yan XW**, et al. How does social credit system constructions affect corporate carbon emissions? Empirical evidence from Chinese listed companies[J]. Economics Letters, 2023, 231: 111309.[Full Text](https://www.sciencedirect.com/science/article/abs/pii/S0165176523003348)
 
-4. Xia H, Xu N, <u>Yan XW</u>\*, et al. Multiplan Integration Pilot Policy and Urban Low-Carbon Transformation: Microlevel Empirical Evidence from Chinese Listed Companies Based on Difference-in-Differences Analysis[J]. Journal of Urban Planning and Development, 2026, 152(1): 04025083.[Full Text](https://ascelibrary.org/doi/10.1061/JUPDDM.UPENG-5724)
+3. Wang ZX, **Yan XW**\*. Does administrative monopoly regulation restrain enterprise over-financialization? Evidence from China’s Fair Competition Review System, Journal of Management Science and Engineering (管理科学学报英文版), 2025, 10(2), 158-174. [Full Text](https://www.sciencedirect.com/science/article/pii/S2096232024000581)
 
-### <font color="#8470FF">Chinese-language publications</font>
+4. Xia H, Xu N, **Yan XW**\*, et al. Multiplan Integration Pilot Policy and Urban Low-Carbon Transformation: Microlevel Empirical Evidence from Chinese Listed Companies Based on Difference-in-Differences Analysis[J]. Journal of Urban Planning and Development, 2026, 152(1): 04025083.[Full Text](https://ascelibrary.org/doi/10.1061/JUPDDM.UPENG-5724)
 
-1. Wang ZX, <u>Yan XW</u>\*. "Area-Based Evaluation Mechanism" Reform and Enterprise High-Quality Growth: Perspectives on Efficiency and Momentum Changes, Journal of Quantitative & Technological Economics, 2024(12):155-176. <br>
-【王正新，<u>严祥武</u>\*.“亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角[J].数量经济技术经济研究,2024(12):155-176.(CSSCI，人大复印资料《社会主义经济理论与实践》2025年第3期全文转载)】 [Full Text](http://www.jqte.net/sljjjsjjyj/ch/reader/create_pdf.aspx?file_no=20241208&flag=1&journal_id=sljjjsjjyj&year_id=2024) [Code & Data](http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20241208&flag=1)
+### Chinese-language articles
 
-2. Li CY, <u>Yan XW</u>\*. Why do 'green jobs' tend to be informal jobs? experiences from China'senvironmental protection industry, China Population,Resources and Environment, 2021,31(12):116-127. <br>
-【李程宇，<u>严祥武</u>\*.为什么“绿色工作”偏向成为非正式工作？——来自中国环保行业的经验[J].中国人口·资源与环境,2021,31(12):116-127.】 [Full Text](https://kns.cnki.net/kcms2/article/abstract?v=9CXCstbk-tsQknlD0mOeSvDYQhy5El0gGcpkWC_oQpDxn3am3fMBD4E1e4WylZ-xvqSGy8e92ux5FNa6XutioYBC7lrO2KCzLS-AEfzZXpPRoso4mbCsqHJo-GPNQx9EAXiZ6b6dVRyGefXAktb2dg==&uniplatform=NZKPT&language=CHS)
+1. Wang ZX, **Yan XW**\*. "Area-Based Evaluation Mechanism" Reform and Enterprise High-Quality Growth: Perspectives on Efficiency and Momentum Changes, Journal of Quantitative & Technological Economics, 2024(12):155-176. (in Chinese). [Full Text](http://www.jqte.net/sljjjsjjyj/ch/reader/create_pdf.aspx?file_no=20241208&flag=1&journal_id=sljjjsjjyj&year_id=2024) [Code & Data](http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20241208&flag=1)
 
-3. Yan XW, <u>Wang ZX</u>\* Bilateral Information Improvement and Trade Distance Elasticity: Evidence from Cross-border E-commerce Platform, Seeking Truth, 2026,53(4):89-104. <br>
-【严祥武，<u>王正新</u>\*. 双向信息改善与贸易距离弹性：来自跨境电商平台的证据[J].求是学刊,2026,53(4):89-104】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2026.04.008)
+2. Li CY, **Yan XW**\*. Why do 'green jobs' tend to be informal jobs? experiences from China's environmental protection industry, China Population,Resources and Environment, 2021,31(12):116-127. (in Chinese). [Full Text](https://kns.cnki.net/kcms2/article/abstract?v=9CXCstbk-tsQknlD0mOeSvDYQhy5El0gGcpkWC_oQpDxn3am3fMBD4E1e4WylZ-xvqSGy8e92ux5FNa6XutioYBC7lrO2KCzLS-AEfzZXpPRoso4mbCsqHJo-GPNQx9EAXiZ6b6dVRyGefXAktb2dg==&uniplatform=NZKPT&language=CHS)
 
-4. Wang ZX, <u>Yan XW</u>\* Digital Divide and Trade Distance Elasticity: A Re-examination of the Distance Puzzle, Seeking Truth, 2023(3):66-81. <br>
-【王正新，<u>严祥武</u>\*. 数字鸿沟与贸易距离弹性：“距离之谜”的再探究[J].求是学刊,2023(3):66-81.(CSSCI，人大复印资料《国际贸易研究》2023年第10期全文转载)】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2023.03.007)
+3. **Yan XW**, Wang ZX\* Bilateral Information Improvement and Trade Distance Elasticity: Evidence from Cross-border E-commerce Platform, Seeking Truth, 2026,53(4):89-104. (in Chinese). [Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2026.04.008)
 
-5. Wang ZX, Gong JM, <u>Yan XW</u>\*.Industry Upgrade Effect of Differentiated Allocation of Resource Elements ：Empirical Research on the "Area-Based Evaluation Mechanism" Reform, Zhejiang Social Sciences, 2022(12):26-36+156. <br>
-【王正新，龚吉明，<u>严祥武</u>\*.资源要素差别化配置的产业升级效应——基于“亩均论英雄”改革的经验研究[J].浙江社会科学,2022(12):26-36+156.(CSSCI)】 [Full Text](https://doi.org/10.14167/j.zjss.2022.12.011)
+4. Wang ZX, **Yan XW**\* Digital Divide and Trade Distance Elasticity: A Re-examination of the Distance Puzzle, Seeking Truth, 2023(3):66-81. (in Chinese). [Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2023.03.007)
 
-6. Chen HB, <u>Yan XW</u>\*, Zhang YN. Digital Economy and Industrial Chain Supply Chain Security: A Quasi-Natural Experiment Based on Smart City Pilot[J]. Statistics & Decision, 2025,(03):36-41.<br>
-【陈海豹，<u>严祥武</u>\*，张亚楠. 数字经济与产业链供应链安全：基于智慧城市试点的准自然实验[J].统计与决策, 2025,(03):36-41】[Full Text](https://doi.org/10.13546/j.cnki.tjyjc.2025.03.006)
+5. Wang ZX, Gong JM, **Yan XW**\*.Industry Upgrade Effect of Differentiated Allocation of Resource Elements ：Empirical Research on the "Area-Based Evaluation Mechanism" Reform, Zhejiang Social Sciences, 2022(12):26-36+156. (in Chinese). [Full Text](https://doi.org/10.14167/j.zjss.2022.12.011)
 
----
-# <font color="#0070c0">Books</font>
-1. Li CY, <u>Yan XW</u>. The strategy of basic factor market allocation for smooth domestic circulation, China Agriculture Press, 2022. <br>
-【李程宇，<u>严祥武</u>. 畅通国内大循环的基础要素市场配置策略研究[M]. 北京, 中国农业出版社, 2022. ISBN: 978-7-109-30227-3】 [Cover & Catalogue](http://xiangwuyan.github.io/files/2022专著.pdf)
+6. Chen HB, **Yan XW**\*, Zhang YN. Digital Economy and Industrial Chain Supply Chain Security: A Quasi-Natural Experiment Based on Smart City Pilot[J]. Statistics & Decision, 2025,(03):36-41. (in Chinese). [Full Text](https://doi.org/10.13546/j.cnki.tjyjc.2025.03.006)
 
----
-# <font color="#0070c0">Fundings</font>
-1. National Natural Science Foundation of China （71803181）: The theoretical mechanisms and policy instruments of the carbon market system affecting economic fluctuations and expected inflation，2019/01-2021/12, Participated. <br>
-【国家级：国家自然科学基金青年科学基金项目：碳市场体系影响经济波动及预期通货膨胀的理论机制与政策工具研究（71803181），2019/01-2021/12，结项，参加】
+### Book
 
-2. Henan Province Soft Science Research Project: Pathways and Countermeasures for High-Performance Governance to Drive High-Quality Development of Manufacturing Industry in Henan Province, 2026.1. <br>
-【省级：河南省软科学项目: 高效能治理驱动河南省制造业高质量发展的路径与对策研究（262400411116），2026.1-2026.9，结项，主持。】
+Li CY, **Yan XW**. *The strategy of basic factor market allocation for smooth domestic circulation*. China Agriculture Press, 2022. [Cover & Catalogue](/files/2022专著.pdf)
 
-3. Zhejiang students' technology and innovation program (Xinmiao talent program): "Area-Based Evaluation Mechanism" Reform and Enterprise's High-Quality Growth: Viewpoint of Efficiency Change and Momentum Change, 2024.3. <br>
-【省级：浙江省大学生科技创新活动计划（新苗人才计划）: “亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角（2024R414B038），2024.3-2026.1，结项，主持。】
+[View all publications](/publications/)
 
-4. Zhejiang University of Finance & Economics GraduateResearch Project: Will Fair Competition Review System Restrain the Trend of "Shifting from RealEconomy to Virtual Economy?" <br>
-【校级：浙江财经大学田野调查项目：公平竞争审查制度对企业脱实向虚的影响研究（23TYDC035），2023/06-2024/05，结项，主持。】
+## Selected Research Grants
 
-5. Xinyang City Soft Science Research Project  "Innovative Development of the Ecological Cultural Industry in the Dabie Mountains Region" (No. 20250002)<br>
-【市级：信阳市软科学研究计划项目:大别山区生态文化产业创新发展研究（20250002），2025.11-2026.9，立项，主持。】
+**Henan Province Soft Science Research Project**, 2026. Principal investigator. High-performance governance and high-quality manufacturing development in Henan Province.
 
----
+**Xinyang City Soft Science Research Project**, 2025 to 2026. Principal investigator. Innovative development of the ecological cultural industry in the Dabie Mountains region.
 
-# <font color="#0070c0">Economics notes</font>
-[【香樟推文3913】近四十年中国大学生就业统计分析：趋势、群体差异与雇主反应](https://mp.weixin.qq.com/s/M06c--8E1XO5P0_LoUlMNw)
+[Full project record](/cv/#research-grants)
 
-[【香樟推文3889】老师少讲一点，学生会学得更多吗？](https://mp.weixin.qq.com/s/Q7cPdjkak1oO84DUnurr2g)
+## Academic Service
 
-[【香樟推文3780】劳动力市场极化与城市大分流](https://mp.weixin.qq.com/s/scEund4778mYTifbDmdr-w)
+Early Career Researcher Editorial Board Member, [Journal of East European Management Studies](https://www.imrpress.com/journal/JEEMS). Invited Handling Editor, [Frontiers in Political Science](https://www.frontiersin.org/journals/political-science).
 
-[【香樟推文3725】城市即生产力：全球5亿人职业履历的微观证据](https://mp.weixin.qq.com/s/ov0E3OurselVz6FB-8dbOQ)
+Referee for journals including *China Economic Review*, *Economic Modelling*, *Review of Development Economics*, *Environmental Science & Policy*, and *Transportation Research Part E*.
 
-[【香樟推文3672】毕业后的第一份工作，决定了你的未来吗？](https://mp.weixin.qq.com/s/wLUmTDQwJeQkwmoHtWr5tQ)
+[Full academic service record](/cv/#academic-service)
 
-[【香樟推文3604】遥感数据在社科研究的测量误差陷阱](https://mp.weixin.qq.com/s/G77Q9BUnDoKJ1MnbWLnKUQ)
+## Contact
 
-[【香樟推文3545】出口扩张与中国中低技能职业兴起](https://mp.weixin.qq.com/s/E95tamufTlh7mczpIGF_vw)
-
-[【香樟推文3428】收入不平等与就业创造：企业融资的新视角](https://mp.weixin.qq.com/s/kxS5gVEIuyp96W39rTRMIA)
-
-[【计量经济圈】平行趋势非线性违背检验, 原理与代码解读](https://mp.weixin.qq.com/s/RgxM6UXlKgtsHBZEb6ewqg)
-
----
-# <font color="#0070c0">Useful knowledges</font>
-[为什么核心解释变量不推荐使用综合测度指标？](https://mp.weixin.qq.com/s/KHI_KcQw0tTOiM7KhszUwQ?scene=1&click_id=1552605071)
-
-
-# <font color="#0070c0">Academic activities</font>
-
-|时间|会议/活动名称|汇报题目/参与情况|
-|:---:|:---:|:---:|
-|2025.07|2025年“灰色系统理论与应用”江苏省暑期学校|入选学员|
-|2025.07|中国海洋大学2025年“本土原创学说及其在海洋经济管理中的创新应用”暑期学校|入选学员|
-|2024.09|第二届青山湖国际经济论坛|数字服务贸易壁垒对数字服务出口的影响效应研究|
-|2024.07|第七期“香樟青苗计划”|入选学员|
-|2024.07|2024 年第十三届数量经济学国际学术会议|Does Administrative Monopoly Regulation Restrain Enterprise Over-financialization? Evidence of China's Fair Competition Review System|
-|2024.07|2024 Chinese Economists Society Annual Conference（CES年会）|The Impact of Income Inequality on Consumption Structure Upgrading: Empirical Evidence from the China Family Panel Studies|
-|2023.10|2023年秋季清华交叉学科研究能力提升计划“大数据与因果推断研讨班”|入选学员|
-|2023.07|2023 年上贸大-YES“面向真实世界的经济研究”暑期学校|入选学员|
-|2023.06|第十三届产业组织前沿问题研讨会|公平竞争审查能否抑制企业脱实向虚?|
-|2022.10|2022年第一届“数字化转型与智慧管理全国高校经管类博士生学术论坛|制造业数字化转型对碳排放效率的影响研究|
-|2022.11|中国数量经济学会2022年（大连）年会| 数字鸿沟与贸易距离弹性：“距离之谜”的再探究|
-|2021.05|第九届全国低碳发展管理学术年会、第六届能源资源系统工程学术年会、第四届中国(太原)管理科学与工程国际学术年会|Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity|
-
----
-
-# <font color="#0070c0">Editor work</font>
-Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](www.imrpress.com/journal/JEEMSQ)
-
-Invited Handling Editor for [Frontiers in Political Science](https://www.frontiersin.org/journals/political-science)
-
-# <font color="#0070c0">Review work</font>
-**Reviewed for 72 journals :**
-- 广东财经大学学报
-- 求是学刊
-- Acta Oeconomica
-- Advances in Business and Management Research
-- Applied Economics
-- Applied Economics Letters
-- Applied Geography
-- Applied Water Science
-- Asia & the Pacific Policy Studies 
-- Asian-Pacific Economic 
-- China Economic Review
-- Cogent Business & Management
-- Cogent Economics & Finance
-- Ecological Indicators
-- Economic Analysis and Policy
-- Economic Change and Restructuring
-- Economic Modelling
-- Economies
-- Emerging Markets Finance and Trade
-- Energy Efficiency
-- Energy Sources, Part B: Economics, Planning, and Policy
-- Energy Strategy Reviews
-- Environment, Development and Sustainability
-- Environmental Development
-- Environmental Engineering and Management Journal
-- Environmental Management: Economics and Policy
-- Environmental Science & Policy
-- Finance Research Letters
-- Frontiers in Environmental Science
-- Frontiers in Political Science
-- Frontiers in Sustainable Food Systems
-- Frontiers of Agricultural Science and Engineering
-- GIScience & Remote Sensing 
-- Global Economics Research
-- Habitat International
-- Humanities and Social Sciences Communications
-- International Journal of Emerging Markets
-- International Journal of Energy Research
-- International Journal of Systematic Innovation
-- International Journal of Urban Sciences 
-- International Review of Economics and Finance
-- International Review of Financial Analysis
-- Journal of Architectural and Planning Research
-- Journal of Asian and African Studies
-- Journal of Computational Methods in Science and Engineering
-- Journal of East European Management Studies
-- Journal of Public Policy
-- Journal of Sustainable Tourism
-- Journal of the Asia Pacific Economy
-- Journal of Urban Management
-- Journal of Urban Planning and Development
-- Journal of Urban Technology
-- Natural Resources Forum
-- Open Research Europe
-- Planning Practice & Research
-- Plos One
-- Post-Communist Economies
-- Renewable Energy and Power Quality Journal
-- Review of Development Economics
-- sage open
-- Social Sciences & Humanities Open
-- Spatial Economic Analysis
-- Sustainability
-- Sustainable Cities and Society
-- Sustainable Development
-- Sustainable Futures
-- systems
-- Technological Forecasting & Social Change
-- Technology Analysis & Strategic Management
-- Telecommunications Policy
-- Transportation Research Part E
-- Urban Science
-
----
-
-# <font color="#0070c0">Educations</font>
-
-* B.S. in  logistics management,Zhengzhou University of Light Industry, 2015.9-2019.6
-* M.S. in  logistics engineering, Zhengzhou University of Light Industry, 2019.9-2022.6
-* Ph.D in  International trade, Zhejiang University of Finance and Economics, 2022.9-2025.6 
-
----
-
-
-# <font color="#0070c0">Contact me</font>
-
-- Email: xiangwu.yan@xynu.edu.cn
-- 237 Nanhu Road, Xinyang City, Henan Province (河南省信阳市南湖路237号)
+[xiangwu.yan@xynu.edu.cn](mailto:xiangwu.yan@xynu.edu.cn) · Xinyang Normal University, Xinyang, China.
