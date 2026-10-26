@@ -8,50 +8,44 @@ redirect_from:
   - /about.html
 ---
 
-Xiang-Wu Yan (born 1996) holds a PhD in Economics and is a faculty member at Xinyang Normal University. His research focuses on industrial economics, international trade, and environmental and development economics. His work has appeared in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population, Resources and Environment**, and **Seeking Truth**. He has published one academic monograph and led two provincial-level research projects. He was also selected for the seventh cohort of the Camphor Economic Circle (CEC) Young Scholars Program. He serves as an Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](www.imrpress.com/journal/JEEMS) and has been invited to serve as a handling editor for [Frontiers in Political Science](https://www.frontiersin.org/journals/political-science). He has also reviewed for more than 70 academic journals. <br><font color="#974806">【严祥武（1996年生），经济学博士，信阳师范大学青年教师。主要研究领域为产业经济学、国际贸易、环境与发展经济学。研究成果发表于《China Economic Review》《管理科学学报（英文版）》《数量经济技术经济研究》《中国人口·资源与环境》《求是学刊》等期刊。出版学术著作一部，主持完成省级课题两项，入选第七期“香樟青苗计划”。现任SSCI期刊Journal of East European Management Studies青年编委，受邀担任Frontiers in Political Science稿件处理编辑（Handling Editor），为70余种学术期刊审稿。】</font>
+Xiang-Wu Yan (1996- ) holds a PhD in Economics. His research focuses on industrial economics, international trade, and environmental and development economics. His work has appeared in **China Economic Review**, **Journal of Management Science and Engineering**, **Journal of Quantitative & Technological Economics**, **China Population, Resources and Environment**, and **Seeking Truth**. He has published one academic monograph and led two provincial-level research projects. He was also selected for the seventh cohort of the Camphor Economic Circle (CEC) Young Scholars Program. He serves as an Early Career Researcher Editorial Board Member of [Journal of East European Management Studies](www.imrpress.com/journal/JEEMS) and has been invited to serve as a handling editor for [Frontiers in Political Science](https://www.frontiersin.org/journals/political-science). He has also reviewed for more than 70 academic journals. <br>
 
 ---
 # <font color="#0070c0">Daily tools</font>
 [文本格式清理工具](http://xiangwuyan.github.io/files/文本格式清理工具.html)
 
 ---
-# <font color="#0070c0">Publications</font>
+# <font color="#0070c0">Selected Publications</font>
 
-### <font color="#8470FF">Theme 1: International economy</font>
+### <font color="#8470FF">English-language publications</font>
 
-1. Yan XW, <u>Wang ZX</u>\* Bilateral Information Improvement and Trade Distance Elasticity: Evidence from Cross-border E-commerce Platform, Seeking Truth, 2026,53(4):89-104. <br>
-【严祥武，<u>王正新</u>\*. 双向信息改善与贸易距离弹性：来自跨境电商平台的证据[J].求是学刊,2026,53(4):89-104】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2026.04.008)
-2.  Wang ZX, Tang BX,<u>Yan XW</u>\*.  The impact of administrative boundaries on foreign direct investments in China's Yangtze River Delta region[J]. China Economic Review, 2024: 102171.[Full Text](https://www.sciencedirect.com/science/article/pii/S1043951X24000609)
-32. Wang ZX, <u>Yan XW</u>\* Digital Divide and Trade Distance Elasticity: A Re-examination of the Distance Puzzle, Seeking Truth, 2023(3):66-81. <br>
-【王正新，<u>严祥武</u>\*. 数字鸿沟与贸易距离弹性：“距离之谜”的再探究[J].求是学刊,2023(3):66-81.(CSSCI，人大复印资料《国际贸易研究》2023年第10期全文转载)】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2023.03.007)
+1. Wang ZX, Tang BX,<u>Yan XW</u>\*.  The impact of administrative boundaries on foreign direct investments in China's Yangtze River Delta region[J]. China Economic Review, 2024: 102171.[Full Text](https://www.sciencedirect.com/science/article/pii/S1043951X24000609)
 
+2. Cui XH, Xu N\*, <u>Yan XW</u>, et al. How does social credit system constructions affect corporate carbon emissions? Empirical evidence from Chinese listed companies[J]. Economics Letters, 2023, 231: 111309.[Full Text](https://www.sciencedirect.com/science/article/abs/pii/S0165176523003348)
 
+3. Wang ZX, <u>Yan XW</u>\*. Does administrative monopoly regulation restrain enterprise over-financialization? Evidence from China’s Fair Competition Review System, Journal of Management Science and Engineering (管理科学学报英文版), 2025, 10(2), 158-174. [Full Text](https://www.sciencedirect.com/science/article/pii/S2096232024000581)
 
-###  <font color="#8470FF">Theme 2: Industrial economy</font>
+4. Xia H, Xu N, <u>Yan XW</u>\*, et al. Multiplan Integration Pilot Policy and Urban Low-Carbon Transformation: Microlevel Empirical Evidence from Chinese Listed Companies Based on Difference-in-Differences Analysis[J]. Journal of Urban Planning and Development, 2026, 152(1): 04025083.[Full Text](https://ascelibrary.org/doi/10.1061/JUPDDM.UPENG-5724)
+
+### <font color="#8470FF">Chinese-language publications</font>
 
 1. Wang ZX, <u>Yan XW</u>\*. "Area-Based Evaluation Mechanism" Reform and Enterprise High-Quality Growth: Perspectives on Efficiency and Momentum Changes, Journal of Quantitative & Technological Economics, 2024(12):155-176. <br>
-【王正新，<u>严祥武</u>\*.“亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角[J].数量经济技术经济研究,2024(12):155-176.(CSSCI，人大复印资料《社会主义经济理论与实践》2025年第3期全文转载)】 [Full Text](http://www.jqte.net/sljjjsjjyj/ch/reader/create_pdf.aspx?file_no=20241208&flag=1&journal_id=sljjjsjjyj&year_id=2024) [Code & Data](http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20241208&flag=1) 
+【王正新，<u>严祥武</u>\*.“亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角[J].数量经济技术经济研究,2024(12):155-176.(CSSCI，人大复印资料《社会主义经济理论与实践》2025年第3期全文转载)】 [Full Text](http://www.jqte.net/sljjjsjjyj/ch/reader/create_pdf.aspx?file_no=20241208&flag=1&journal_id=sljjjsjjyj&year_id=2024) [Code & Data](http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20241208&flag=1)
 
-2. Wang ZX, <u>Yan XW</u>\*. Does administrative monopoly regulation restrain enterprise over-financialization? Evidence from China’s Fair Competition Review System
-, Journal of Management Science and Engineering (管理科学学报英文版), 2025, 10(2), 158-174. [Full Text](https://www.sciencedirect.com/science/article/pii/S2096232024000581) 
-
-3. Wang ZX, Gong JM, <u>Yan XW</u>\*.Industry Upgrade Effect of Differentiated Allocation of Resource Elements ：Empirical Research on the "Area-Based Evaluation Mechanism" Reform, Zhejiang Social Sciences, 2022(12):26-36+156. <br>
-【王正新，龚吉明，<u>严祥武</u>\*.资源要素差别化配置的产业升级效应——基于“亩均论英雄”改革的经验研究[J].浙江社会科学,2022(12):26-36+156.(CSSCI)】 [Full Text](https://doi.org/10.14167/j.zjss.2022.12.011) 
-
-4. Li CY, <u>Yan XW</u>\*. Why do 'green jobs' tend to be informal jobs? experiences from China'senvironmental protection industry, China Population,Resources and Environment, 2021,31(12):116-127. <br>
+2. Li CY, <u>Yan XW</u>\*. Why do 'green jobs' tend to be informal jobs? experiences from China'senvironmental protection industry, China Population,Resources and Environment, 2021,31(12):116-127. <br>
 【李程宇，<u>严祥武</u>\*.为什么“绿色工作”偏向成为非正式工作？——来自中国环保行业的经验[J].中国人口·资源与环境,2021,31(12):116-127.】 [Full Text](https://kns.cnki.net/kcms2/article/abstract?v=9CXCstbk-tsQknlD0mOeSvDYQhy5El0gGcpkWC_oQpDxn3am3fMBD4E1e4WylZ-xvqSGy8e92ux5FNa6XutioYBC7lrO2KCzLS-AEfzZXpPRoso4mbCsqHJo-GPNQx9EAXiZ6b6dVRyGefXAktb2dg==&uniplatform=NZKPT&language=CHS)
 
-5. Chen HB, <u>Yan XW</u>\*, Zhang YN. Digital Economy and Industrial Chain Supply Chain Security: A Quasi-Natural Experiment Based on Smart City Pilot[J]. Statistics & Decision, 2025,(03):36-41.<br>
+3. Yan XW, <u>Wang ZX</u>\* Bilateral Information Improvement and Trade Distance Elasticity: Evidence from Cross-border E-commerce Platform, Seeking Truth, 2026,53(4):89-104. <br>
+【严祥武，<u>王正新</u>\*. 双向信息改善与贸易距离弹性：来自跨境电商平台的证据[J].求是学刊,2026,53(4):89-104】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2026.04.008)
+
+4. Wang ZX, <u>Yan XW</u>\* Digital Divide and Trade Distance Elasticity: A Re-examination of the Distance Puzzle, Seeking Truth, 2023(3):66-81. <br>
+【王正新，<u>严祥武</u>\*. 数字鸿沟与贸易距离弹性：“距离之谜”的再探究[J].求是学刊,2023(3):66-81.(CSSCI，人大复印资料《国际贸易研究》2023年第10期全文转载)】[Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2023.03.007)
+
+5. Wang ZX, Gong JM, <u>Yan XW</u>\*.Industry Upgrade Effect of Differentiated Allocation of Resource Elements ：Empirical Research on the "Area-Based Evaluation Mechanism" Reform, Zhejiang Social Sciences, 2022(12):26-36+156. <br>
+【王正新，龚吉明，<u>严祥武</u>\*.资源要素差别化配置的产业升级效应——基于“亩均论英雄”改革的经验研究[J].浙江社会科学,2022(12):26-36+156.(CSSCI)】 [Full Text](https://doi.org/10.14167/j.zjss.2022.12.011)
+
+6. Chen HB, <u>Yan XW</u>\*, Zhang YN. Digital Economy and Industrial Chain Supply Chain Security: A Quasi-Natural Experiment Based on Smart City Pilot[J]. Statistics & Decision, 2025,(03):36-41.<br>
 【陈海豹，<u>严祥武</u>\*，张亚楠. 数字经济与产业链供应链安全：基于智慧城市试点的准自然实验[J].统计与决策, 2025,(03):36-41】[Full Text](https://doi.org/10.13546/j.cnki.tjyjc.2025.03.006)
-
-
-### <font color="#8470FF">Theme 3: Green economy</font>
-1. Yan X W. Government Open Data and Green Collaborative Innovation: Firm-Level Evidence from China[J]. Sustainability, 2026, 18(13): 6464. [Full Text](https://doi.org/10.3390/su18136464)
-2. Ai KP, <u>Yan XW</u>\*. Can green infrastructure investment reduce urban carbon emissions? Empirical evidence from China. [J]. Land，2024, 13, 226.[Full Text](https://www.mdpi.com/2073-445X/13/2/226)
-3. Cui XH, Xu N\*, <u>Yan XW</u>, et al. How does social credit system constructions affect corporate carbon emissions? Empirical evidence from Chinese listed companies[J]. Economics Letters, 2023, 231: 111309.[Full Text](https://www.sciencedirect.com/science/article/abs/pii/S0165176523003348)
-4. Li CY, <u>Yan XW</u>\*, Li BQ, et al. Potential Impacts of Fukushima Nuclear Leakage on China’s Carbon Neutrality—an Investigation on Nuclear Power Avoidance and Regional Heterogeneity. Frontiers in Environmental Science. 2021, 494 (9): 0-764941.[Full Text](https://www.frontiersin.org/articles/10.3389/fenvs.2021.764941/full)
-5. Li CY, <u>Yan XW</u>\*, Zhang YB, et al. Does Airport Preferential Policy Aggravate the Competition of Aviation Hubs in Central and Western China? Based on the Investigation of 78 Airports. Mathematical Problems in Engineering, Vol. 2021, Article ID 8387088, 14 pages, 2021. [Full Text](https://www.hindawi.com/journals/mpe/2021/8387088/)
-6. Xia H, Xu N, <u>Yan XW</u>\*, et al. Multiplan Integration Pilot Policy and Urban Low-Carbon Transformation: Microlevel Empirical Evidence from Chinese Listed Companies Based on Difference-in-Differences Analysis[J]. Journal of Urban Planning and Development, 2026, 152(1): 04025083.[Full Text](https://ascelibrary.org/doi/10.1061/JUPDDM.UPENG-5724)
 
 ---
 # <font color="#0070c0">Books</font>
@@ -65,7 +59,7 @@ Xiang-Wu Yan (born 1996) holds a PhD in Economics and is a faculty member at Xin
 
 2. Henan Province Soft Science Research Project: Pathways and Countermeasures for High-Performance Governance to Drive High-Quality Development of Manufacturing Industry in Henan Province, 2026.1. <br>
 【省级：河南省软科学项目: 高效能治理驱动河南省制造业高质量发展的路径与对策研究（262400411116），2026.1-2026.9，结项，主持。】
-  
+
 3. Zhejiang students' technology and innovation program (Xinmiao talent program): "Area-Based Evaluation Mechanism" Reform and Enterprise's High-Quality Growth: Viewpoint of Efficiency Change and Momentum Change, 2024.3. <br>
 【省级：浙江省大学生科技创新活动计划（新苗人才计划）: “亩均论英雄”改革与企业高质量发展——基于效率变革和动力变革的视角（2024R414B038），2024.3-2026.1，结项，主持。】
 
