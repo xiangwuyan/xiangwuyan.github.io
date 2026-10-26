@@ -1,3 +1,9 @@
+---
+layout: document
+title: Resources
+permalink: /files/resources.html
+---
+
 # Resources
 
 Tools, economics notes, and research methods.

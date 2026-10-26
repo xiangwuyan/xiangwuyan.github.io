@@ -9,8 +9,6 @@ redirect_from:
 
 Xiang-Wu Yan is a faculty member at Xinyang Normal University. He received his Ph.D. in International Trade from Zhejiang University of Finance and Economics in 2025. His research focuses on industrial economics, international trade, and environmental and development economics, with particular interests in policy reform, firm behavior, and green transformation.
 
-[Curriculum vitae (Markdown)](https://github.com/xiangwuyan/xiangwuyan.github.io/blob/master/files/cv.md) · [All publications (Markdown)](https://github.com/xiangwuyan/xiangwuyan.github.io/blob/master/files/publications.md) · [Resources (Markdown)](https://github.com/xiangwuyan/xiangwuyan.github.io/blob/master/files/resources.md)
-
 ## Selected Publications
 
 An asterisk denotes the corresponding author.
@@ -43,7 +41,7 @@ An asterisk denotes the corresponding author.
 
 Li CY, **Yan XW**. *The strategy of basic factor market allocation for smooth domestic circulation*. China Agriculture Press, 2022. [Cover & Catalogue](/files/2022专著.pdf)
 
-[View all publications](https://github.com/xiangwuyan/xiangwuyan.github.io/blob/master/files/publications.md)
+[View all publications](/files/publications.html)
 
 ## Selected Research Grants
 
@@ -51,7 +49,7 @@ Li CY, **Yan XW**. *The strategy of basic factor market allocation for smooth do
 
 **Xinyang City Soft Science Research Project**, 2025 to 2026. Principal investigator. Innovative development of the ecological cultural industry in the Dabie Mountains region.
 
-[Full project record](https://github.com/xiangwuyan/xiangwuyan.github.io/blob/master/files/cv.md#research-grants)
+[Full project record](/files/cv.html#research-grants)
 
 ## Academic Service
 
@@ -59,7 +57,11 @@ Early Career Researcher Editorial Board Member, [Journal of East European Manage
 
 Referee for journals including *China Economic Review*, *Economic Modelling*, *Review of Development Economics*, *Environmental Science & Policy*, and *Transportation Research Part E*.
 
-[Full academic service record](https://github.com/xiangwuyan/xiangwuyan.github.io/blob/master/files/cv.md#academic-service)
+[Full curriculum vitae and academic service](/files/cv.html#academic-service)
+
+## Resources
+
+[文本格式清理工具](/files/文本格式清理工具.html) · [经济学笔记与研究方法](/files/resources.html)
 
 ## Contact
 
