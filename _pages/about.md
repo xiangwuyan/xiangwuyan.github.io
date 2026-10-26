@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xiang-Wu Yan is a faculty member at Xinyang Normal University. He received his Ph.D. in International Trade from Zhejiang University of Finance and Economics in 2025. His research focuses on industrial economics, international trade, and environmental and development economics, with particular interests in policy reform, firm behavior, and green transformation.
+Xiang-Wu Yan holds a Ph.D. in Economics. His research interests include industrial economics, international trade, and environmental and development economics, with a focus on policy reform, firm behavior, and green transformation.
 
 ## Selected Publications
 
@@ -65,4 +65,4 @@ Referee for journals including *China Economic Review*, *Economic Modelling*, *R
 
 ## Contact
 
-[xiangwu.yan@xynu.edu.cn](mailto:xiangwu.yan@xynu.edu.cn) · Xinyang Normal University, Xinyang, China.
+[xiangwu.yan@xynu.edu.cn](mailto:xiangwu.yan@xynu.edu.cn)
