@@ -9,7 +9,7 @@ redirect_from:
 
 Xiang-Wu Yan holds a Ph.D. in Economics. His research interests include industrial economics, international trade, and environmental and development economics, with a focus on policy reform, firm behavior, and green transformation.
 
-## Selected Publications
+## 代表性成果
 
 ### English-language articles
 
@@ -23,23 +23,23 @@ Xiang-Wu Yan holds a Ph.D. in Economics. His research interests include industri
 
 ### Chinese-language articles
 
-1. Wang ZX, **Yan XW**\*. "Area-Based Evaluation Mechanism" Reform and Enterprise High-Quality Growth: Perspectives on Efficiency and Momentum Changes, Journal of Quantitative & Technological Economics, 2024(12):155-176. (in Chinese). [Full Text](http://www.jqte.net/sljjjsjjyj/ch/reader/create_pdf.aspx?file_no=20241208&flag=1&journal_id=sljjjsjjyj&year_id=2024) [Code & Data](http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20241208&flag=1)
+1. Wang ZX, **Yan XW**\*. "Area-Based Evaluation Mechanism" Reform and Enterprise High-Quality Growth: Perspectives on Efficiency and Momentum Changes, 《数量经济技术经济研究》, 2024(12):155-176. (in Chinese). [Full Text](http://www.jqte.net/sljjjsjjyj/ch/reader/create_pdf.aspx?file_no=20241208&flag=1&journal_id=sljjjsjjyj&year_id=2024) [Code & Data](http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20241208&flag=1)
 
-2. Li CY, **Yan XW**\*. Why do 'green jobs' tend to be informal jobs? experiences from China's environmental protection industry, China Population,Resources and Environment, 2021,31(12):116-127. (in Chinese). [Full Text](https://kns.cnki.net/kcms2/article/abstract?v=9CXCstbk-tsQknlD0mOeSvDYQhy5El0gGcpkWC_oQpDxn3am3fMBD4E1e4WylZ-xvqSGy8e92ux5FNa6XutioYBC7lrO2KCzLS-AEfzZXpPRoso4mbCsqHJo-GPNQx9EAXiZ6b6dVRyGefXAktb2dg==&uniplatform=NZKPT&language=CHS)
+2. Li CY, **Yan XW**\*. Why do 'green jobs' tend to be informal jobs? experiences from China's environmental protection industry, 《中国人口·资源与环境》, 2021,31(12):116-127. (in Chinese). [Full Text](https://kns.cnki.net/kcms2/article/abstract?v=9CXCstbk-tsQknlD0mOeSvDYQhy5El0gGcpkWC_oQpDxn3am3fMBD4E1e4WylZ-xvqSGy8e92ux5FNa6XutioYBC7lrO2KCzLS-AEfzZXpPRoso4mbCsqHJo-GPNQx9EAXiZ6b6dVRyGefXAktb2dg==&uniplatform=NZKPT&language=CHS)
 
-3. **Yan XW**, Wang ZX\* Bilateral Information Improvement and Trade Distance Elasticity: Evidence from Cross-border E-commerce Platform, Seeking Truth, 2026,53(4):89-104. (in Chinese). [Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2026.04.008)
+3. **Yan XW**, Wang ZX\* Bilateral Information Improvement and Trade Distance Elasticity: Evidence from Cross-border E-commerce Platform, 《求是学刊》, 2026,53(4):89-104. (in Chinese). [Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2026.04.008)
 
-4. Wang ZX, **Yan XW**\* Digital Divide and Trade Distance Elasticity: A Re-examination of the Distance Puzzle, Seeking Truth, 2023(3):66-81. (in Chinese). [Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2023.03.007)
+4. Wang ZX, **Yan XW**\* Digital Divide and Trade Distance Elasticity: A Re-examination of the Distance Puzzle, 《求是学刊》, 2023(3):66-81. (in Chinese). [Full Text](https://doi.org/10.19667/j.cnki.cn23-1070/c.2023.03.007)
 
-5. Wang ZX, Gong JM, **Yan XW**\*.Industry Upgrade Effect of Differentiated Allocation of Resource Elements ：Empirical Research on the "Area-Based Evaluation Mechanism" Reform, Zhejiang Social Sciences, 2022(12):26-36+156. (in Chinese). [Full Text](https://doi.org/10.14167/j.zjss.2022.12.011)
+5. Wang ZX, Gong JM, **Yan XW**\*.Industry Upgrade Effect of Differentiated Allocation of Resource Elements ：Empirical Research on the "Area-Based Evaluation Mechanism" Reform, 《浙江社会科学》, 2022(12):26-36+156. (in Chinese). [Full Text](https://doi.org/10.14167/j.zjss.2022.12.011)
 
-6. Chen HB, **Yan XW**\*, Zhang YN. Digital Economy and Industrial Chain Supply Chain Security: A Quasi-Natural Experiment Based on Smart City Pilot[J]. Statistics & Decision, 2025,(03):36-41. (in Chinese). [Full Text](https://doi.org/10.13546/j.cnki.tjyjc.2025.03.006)
+6. Chen HB, **Yan XW**\*, Zhang YN. Digital Economy and Industrial Chain Supply Chain Security: A Quasi-Natural Experiment Based on Smart City Pilot[J]. 《统计与决策》, 2025,(03):36-41. (in Chinese). [Full Text](https://doi.org/10.13546/j.cnki.tjyjc.2025.03.006)
 
 ### Book
 
 Li CY, **Yan XW**. *The strategy of basic factor market allocation for smooth domestic circulation*. China Agriculture Press, 2022. [Cover & Catalogue](/files/2022专著.pdf)
 
-[Selected publications with full bibliographic details](/files/publications.html)
+[代表性成果详细信息](/files/publications.html)
 
 ## Selected Research Grants
 
